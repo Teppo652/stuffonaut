@@ -1,0 +1,343 @@
+"--------------- FI ---------------" : "https://cdon.fi/kirjat/kaikki-kategoriat/",
+BOOKS:
+
+---------------------------------------
+FI: on jo  (https://www.discshop.fi/)
+
+GAMES GENRE
+
+Sisältö (https://www.discshop.fi/advanced_search.php?type=games)
+
+
+SE
+"game_genreData" : "Action,Barnspel,Dansspel,Familjespel,Fighting,First person shooter,Musik,Nyttoprogram,Onlinespel,Partyspel,Pistolspel,Plattform,Pusselspel,Racing,Retro,Rollspel,Simulation,Sport,Strategi,Träning,Utbildning,Äventyr
+
+Mistä NO ja DK?
+
+
+"--------------- SE ---------------" : "https://cdon.se/bocker/alla-kategorier/",
+BOOKS:
+Almanackor & kalendrar
+Barnböcker
+Barn & Familj
+Biografier & Sanna Berättelser
+Datorer & IT
+Deckare & Thrillers
+Djur & Natur
+Ekonomi & Marknadsföring
+Fantasy & Science Fiction
+Film & Musik
+Geografi & Resor
+Historia & Arkeologi
+Hobby & Fritid
+Hus & Hem
+Juridik
+Kultur
+Kurslitteratur
+Mat & Dryck
+Naturvetenskap & Teknik
+Psykologi & Pedagogik
+Religion & Filosofi
+Registerflikar
+Samhälle & Politik
+Serier & Humor
+Sex & Erotik
+Skönlitteratur
+Språk & Uppslagsverk
+Träning & Hälsa
+Unga vuxna
+
+Ljudböcker
+Böcker på andra språk
+
+MUSIC:
+CD
+Vinyl
+Blu-ray
+Musik-DVD
+Boxar
+
+Pop & Rock
+Hårdrock
+Svenskt
+Dansband
+Filmmusik
+Barn
+Reggae
+Samlingar
+Country
+Jazz & Blues
+Klassiskt
+Soul & R&B
+Hip Hop
+Trance & Dance
+Julmusik
+
+FILM: 
+
+
+Kategori
+Språk
+Text
+Åldersgräns  + ' år'
+Inspelningsår
+Bild:	Widescreen (2.40:1), HD 1080p
+Region:	2 (Europa)
+
+x Extramaterial
+
+x Boxar
+
+DVD
+Blu-ray
+4K UHD
+3D Blu-ray
+VHS
+
+Anime
+Action
+Dokumentär
+Drama
+Familj & Barn
+Filmboxar
+Import
+Komedi
+Rysare
+Science Fiction
+Svenskt
+Tecknat & Animerat
+Thriller
+Tv-serier
+Western
+Äventyr & Fantasy
+
+
+
+GAMES:
+
+"ageLimit" : "Åldersgränser
+
+"--------------- NO ---------------" : "https://cdon.no/boker/",
+BOOKS:
+Barnebøker
+Biografier & Memoarer
+Data & IT
+Dyr & Natur
+Fantasy & Science Fiction
+Filosofi & Idéhistorie
+Foreldre og barn
+Geografi & Reise
+Helse&comma; kost & trening
+Historie & Arkeologi
+Hobby & Fritid
+Humor & Tegneserier
+Hus & Hage
+Krim & Spenning
+Mat & Drikke
+Matematikk & Teknologi
+Medisin & Helse
+Musikk&comma; Kunst & Kultur
+Naturvitenskap
+Psykologi & Pedagogikk
+Pocket
+Religion
+Samfunn & Politikk
+Sex & Erotikk
+Skjønnlitteratur
+Språk & Ordbøker
+Studielitteratur
+Ungdomsbøker
+Økonomi & Business
+
+Lydbøker
+Bøker på andre språk
+
+MUSIC:
+CD
+Vinyl
+Blu-ray
+Musikk-DVD
+Bokser
+
+Barn
+Country
+Danseband
+Filmmusikk
+Gospel/Religiøst
+Greatest Hits
+Hardrock-Metal
+Hip Hop
+Jazz & Blues
+Klassisk
+Nordisk
+Norsk
+Pop & Rock
+Reggae
+Samlinger
+Soul & R&B
+Trance & Dance
+Wellness
+World music
+Julemusikk
+
+
+FILM:
+Kategori
+Språk
+Tekst
+Alder  + ' år'
+Produksjonsår
+Bildeformat
+Region:	2 (Europa)
+
+x Ekstramateriale
+
+x Bokser
+
+DVD
+Blu-ray
+4K UHD
+3D Blu-ray
+VHS
+
+Action
+Anime
+Dokumentar
+Drama
+Familie & Barn
+Filmbokser
+Importfilm
+Komedie
+Norske filmer
+Sci-Fi og Fantasy
+Skrekkfilm
+Thriller
+TV-serier
+Western
+Julefilmer
+
+
+GAMES:
+
+
+"--------------- DK ---------------" : "https://cdon.dk/boger/",
+BOOKS:
+Biografier og sande historier
+Børnebøger
+Computer & IT
+Dyr og natur
+Erhverv
+Geografi og Rejser
+Historie
+Hobby og Fritid
+Humor og gavebøger
+Hus og Hjem
+Krimi
+Kultur
+Mad og drikke
+Management & Ledelse
+Medicin
+Musik
+Naturvidenskab og teknik
+Pocket
+Psykologi og pædagogik
+Rejseguider
+Religion og filosofi
+Samfund og Politik
+Sex & Erotik
+Skønlitteratur
+Spilguider
+Sprog og leksika
+Studiebøger
+Tegneserier
+Ungdomsbøger
+Økonomi og Markedsførin
+
+Lydbøger
+Bøger på andre sprog
+
+MUSIC:
+CD
+Vinyl
+Musik-DVD
+Blu-ray
+Bokse
+
+Pop & Rock
+Filmmusik
+Dansk musik
+Hård Rock-Metal
+Børnemusik
+Opsamlinger
+Country
+Jazz & Blues
+Klassisk musik
+Soul & R&B
+Schlager
+Reggae
+Hip Hop
+Trance & Dance
+Julemusik
+
+FILM:
+Kategori
+Sprog
+Tekstning
+Aldersgrænse   + ' ??'
+Indspilningsår
+Billede
+Region:	2 (Europa)
+
+x Ekstramateriale
+
+x Bokse
+
+DVD
+Blu-ray
+4K UHD
+3D Blu-ray
+VHS
+
+Genre:
+Action
+Anime
+Danske film
+Dokumentar
+Drama
+Familie & Børn
+Filmbokse
+Importfilm
+Komedie
+Sci Fi og Fantasy
+Thriller & Gyser
+TV-serier
+Julefilm
+
+
+GAMES:
+
+
+==================================
+
+
+"mob_chars" : "",
+"mob_charsData" : "",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

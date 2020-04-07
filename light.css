@@ -1,0 +1,193 @@
+body, .container, footer {
+	background: none;
+    background-color: #e9e9e9 !important;
+}
+.bg, .bg2 {
+    border:none !important;
+}
+/* primary color */
+.topnav .btn, #toplink_placeAd, .myRadiobutton-selected, #searchBtn  {
+    background-color: #50C251 !important;
+}
+ul.topnav li a.brand {
+    color: #50C251 !important;
+}
+ul.topnav {
+    width: 1076px;
+    margin-left: -75px;
+}
+ul.topnav li a {
+    font-size: 1.12em;
+    font-weight: 100;
+    color: #0a67c7 !important;
+}
+.areaBg, .cat1Bg, .droplistBg {
+    background-image: none;
+    /*
+    background-image: linear-gradient(#adadad, #adadad);
+    background-size: 230px 41px;
+    */
+    /* background-position: -12px 15px; */
+}
+input, select, .area, .cat1, .cat1Special {
+	background-color: #fff;
+	border-radius: 2px;
+    border-color: #999;
+    height: 42px !important;
+}
+input {
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+}
+#area0:hover, #area1:hover, #area2:hover, #area3:hover, #cat1:hover {
+    cursor: pointer;
+}
+
+select {
+	/* -webkit-appearance: none; */
+    /* -moz-appearance: none; */
+    /* -ms-appearance: none; */
+    background: url(img/arrowDown_icon.svg);
+    background-repeat: no-repeat;
+    background-size: 10px;
+    background-position: 95% center;
+}
+#cat1 {
+    margin-left: -353px;
+    float: left;
+}
+#searchText_placeholder {
+    margin-left: 217px;
+    width: 330px;
+    border-radius: 2px;
+}
+#openSettingsPanelBtn {
+    right: 3px;
+    top: -23px;
+}
+#area0 {
+    margin-left: -15px;
+    /*width: 230px;*/
+}
+#area1 {
+    margin-right: 16px;
+    float: right;
+    /*width: 216px;*/
+}
+.myRadiobutton, .myRadiobutton-selected {
+    border: solid 1px #cecece;
+    border-radius: 2px;
+}
+.myRadiobutton-selected {
+	content: url(img/checked_icon.svg);
+    padding: 2px;
+}
+#searchBtn {
+	height: 42px;
+    left: 8px;
+    border: none;
+}
+select {
+    background-size: 17px;
+    opacity: .6;
+}
+.myCheck, .myRadio {
+    width: 20px !important;
+    height: 20px !important;
+        margin-top: 1px !important;
+}
+#cat2Links {
+    background-color: #fff;
+    margin-top: -4px;
+}
+#pageTitle, #saveSearchPanel {
+	display: none;
+}
+adTypes {
+    padding: 0px 0 15px 30px;
+}
+.advertiserTypes button, .sortBy button {
+    border-radius: 2px !important;
+    height: 32px;
+    padding: 0 12px;
+	/* border: none; */
+	/* color: #2979cc; */
+    /* font-weight: 600; */
+}
+.quickCategories a {
+    color: #1861BF;
+    font-weight: unset;
+    margin: -6px 21px 8px 10px;
+}
+.listingHead button.selected {
+    color: #000;
+}
+.cardsIcon {
+    margin: -2px -2px -4px -2px;
+    height: 18px;
+}
+.listIcon {
+    /*width: 38px !important;*/
+    margin: 8px -12px 6px -12px;
+    height: 15px;
+}
+.price {
+	font-size: 1.6em;
+    font-weight: 600;
+    color: #000;
+}
+.wideButtons button {
+	border-radius: 6px;
+    padding: unset;
+    text-align: center;
+}
+.myCheck, .myRadio {
+    width: 18px;
+    height: 18px;
+    margin-top: 2px;
+    /* margin-right: 3px; */
+    background-color: #fff;
+}
+#singleAdNavi a {
+	color: #0269bb;
+    font-weight: 600;
+    font-size: 1.55em;
+}
+#saveInFavorites, #editAd, #useShipping, .plainLinks {
+	display: none;
+}
+#newAd .col {
+    padding: 0 15px;
+}
+#newAd .m12, #newAd .m5, #newAd .m3 {
+    display: flex;
+}
+#newAd label {
+	width: 240px;
+}
+#newAd #nameCol label {
+	width: 340px;
+}
+#newAd .droplist {
+   	margin-top: -28px;
+    margin-left: -69px;
+}
+#newAd .currency {
+	top: 1px;
+    width: 124px;
+    height: 30px;
+    padding-top: 2px;
+    background: none;
+    border-left: none;
+}
+label[for=adPassword] {
+	margin-left: -20px;
+}
+#newAd #passwordCol {
+	height: 50px;
+}
+#newAd .eyeButton {
+    top: -10px;
+    right: -236px;
+}

@@ -1,0 +1,127 @@
+body {
+	background: none;
+}
+.bg {
+	border:none;
+	border-top: solid 1px #d8d8d8;
+}
+.topnav .btn, #toplink_placeAd {
+	background:none;
+	color: #0a67c7 !important;
+}
+ul.topnav li a {
+    font-size: 1.12em;
+    font-weight: 100;
+}
+#searchPanel {
+	background-color: #f8f8f8;
+	background-size: 203px 40px;
+}
+.areaBg, .cat1Bg, .droplistBg {
+    background-image: none;
+}
+input, select, .area, .cat1, .cat1Special {
+	background-color: #fff;
+	border-radius: 4px;
+    height: 32px !important;
+}
+input {
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    box-shadow: none !important;
+}
+select {
+	/*-webkit-appearance: none;*/
+    /*-moz-appearance: none;*/
+    /*-ms-appearance: none;*/
+    background: url(img/select_up_down_icon2.png);
+    background-size: 15px;
+    background-repeat: no-repeat;
+    background-position: 95% center;
+}
+#searchText_placeholder {
+	width: 347px;
+    border-radius: 4px;
+}
+.myRadiobutton, .myRadiobutton-selected {
+    border: solid 1px #2c3e50;
+    border-radius: 2px;
+    background-image: linear-gradient(#fdfdfd, #eee);
+}
+.myRadiobutton-selected {
+	content: url(img/checked_icon_black.svg);
+    padding: 2px
+}
+#searchBtn {
+	height: 32px;
+	padding: 6px;
+}
+#cat2Links {
+    background-color: #fff;
+    margin-top: -4px;
+}
+#pageTitle, #saveSearchPanel {
+	display: none;
+}
+.advertiserTypes button, .sortBy button {
+	border: none;
+	color: #2979cc;
+    font-weight: 600;
+}
+.listingHead button.selected {
+    background: none;
+    color: #000;
+    font-weight: 600;
+}
+.price {
+	font-size: 1.6em;
+    font-weight: 600;
+    color: #000;
+}
+.wideButtons button {
+	border-radius: 6px;
+    padding: unset;
+    text-align: center;
+}
+#singleAdNavi a {
+	color: #0269bb;
+    font-weight: 600;
+    font-size: 1.55em;
+}
+#saveInFavorites, #editAd, #useShipping, .plainLinks {
+	display: none;
+}
+#newAd .col {
+    padding: 0 15px;
+}
+#newAd .m12, #newAd .m5, #newAd .m3 {
+    display: flex;
+}
+#newAd label {
+	width: 240px;
+}
+#newAd #nameCol label {
+	width: 340px;
+}
+#newAd .droplist {
+   	margin-top: -28px;
+    margin-left: -69px;
+}
+#newAd .currency {
+	top: 1px;
+    width: 124px;
+    height: 30px;
+    padding-top: 2px;
+    background: none;
+    border-left: none;
+}
+label[for=adPassword] {
+	margin-left: -20px;
+}
+#newAd #passwordCol {
+	height: 50px;
+}
+#newAd .eyeButton {
+    top: -10px;
+    right: -236px;
+}

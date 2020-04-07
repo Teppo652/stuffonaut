@@ -1,0 +1,12 @@
+User-agent: googlebot
+Disallow: /countriesInfoJSON/
+Disallow: /data/
+Disallow: /extraCriteria/
+Disallow: /extraData/
+Disallow: /functions/
+Disallow: /img/
+Disallow: /pdf/
+Disallow: /terms/
+Disallow: /translations/
+Disallow: /main.js
+Disallow: /main.css
