@@ -1,0 +1,386 @@
+{
+	"XXXXXXXXXXX" : "aaa,bbb,ccc",
+}
+
+
+TODO machinery: 
+-main 6 cats in DB 
+-rest in separeta lang files:
+machineryCats_fi.json
+machineryCats_se.json
+machineryCats_en.json
+...
+
+In LISTING only main cat (from DB) is shown, if user uses machinery search form in index or new - only then load 
+machinery_fi.json into variable and fetch from there
+
+SAME LOGIC FOR caravan!!!
+caravan_fi.json
+caravan_se.json
+caravan_en.json
+...
+
+
+
+
+
+
+
+
+----------------------
+fi
+
+Maarakennus:
+Kaivukoneet,Kuormaajat,Henkilönostimet,Nosturit,Jäte / Kierrätys- ja louhintalaitteet,Asfaltti-koneet,Betonin valu ja lisävarusteet,Generaattorit ja aggregaatit,Kaivurikuormaajat,Kompressorilaitteet,Kurottajat,Lisävarusteet ja komponentit,Maanalaiset louhintalaitteet,Maansiirto,Muut maarakennuskoneet,Öljyn- ja kaasuntuotantolaitteet,Paalutuskalusto,Porauskalusto,Puskukoneet,Satamalaitteet,Tienrakennuskoneet,Tiivistys laitteet,Varaosat
+
+Maatalous:
+Traktorit,Heinä- ja tuorerehukoneet,Maanmuokkaus,Puimurit,Lannoitus,Itsekulkevat silppurit,Karjatalouskoneet,Kastelulaitteet,Kasvinsuojeluruiskut,Kuormaus- ja kaivuulaitteet,Kylvö- ja istutuskoneet,Mönkijät ja moottorikelkat,Muut maatalouskoneet,Oliivinkorjuulaitteet,Perävaunut,Perunalaitteet,Tie- ja lumikoneet,Traktorien lisävarusteet,Varaosat,Viininviljelylaitteet,Viljan käsittely- ja varastointiyksiköt/koneet
+
+Kuljetuskalusto:
+Kuorma-autot,Pakettiautot ja kevyet kuorma-autot,Vetopöytäautot,Puoliperävaunut,Perävaunut,Bussit,Henkilöautot,Kontit,Kuormankäsittely,Maastoajoneuvot,Muut,Päällirakenteet,Pelastus ja muut julkishallinnon ajoneuvot,Sähköajoneuvot,Varaosat
+
+Materiaalinkäsittely:
+Trukit,Pinoamisvaunut,Haarukkavaunut,Työntömastotrukit,Erikoistrukit,Keräilytrukit,Kiinnitettävät lisäosat ja komponentit,Konttitrukit,Muut materiaalinkäsittelykoneet,Varaosat,Varastolaitteet,Varaston lakaisukoneet
+
+Ympäristökoneet:
+Nurmenhoitokoneet ja ruohonleikkurit,Lakaisukoneet,Taajamatraktorit,Golf- ja urheilukenttien hoito,Taajamakoneet,Kaksipyörätraktorit,Muut ympäristökoneet,Painepesurit,Pensasleikkurit,Pienet kuormainlaitteet,Rantojen siivous koneet,Taajamatraktorien varusteet,Varaosat
+
+Metsäkoneet:
+Puunkäsittely&comma; haketus ja kierrätys,Harvesterit,Kuormatraktorit,Juontokoneet,Kaatokasauskoneet,Kaivukoneet,Karsintakoneet,Lisävarusteet ja komponentit,Metsäkoneen varaosat,Metsätraktorit,Muut metsäkoneet,Nivelpuomikuormaajat,Sahat,Yhdistelmäkoneet - korjurit
+
+-------------------
+
+se:
+
+
+Produktgrupp:
+Entreprenad
+Lantbruk
+Transportfordon
+Materialhantering
+Grönytemaskiner
+Skogsmaskiner
+
+
+Entreprenad:
+Grävmaskiner,Lastare,Liftar,Kranar,Återvinning & sortering,Asfalteringsmaskiner,Borrutrustning,Byggmaskiner - Annat,Cementutrustning,Dumprar,Generatorer,Grävlastare,Kompressorutrustning,Marinutrustning,Olja- och gasutrustning,Pålningsutrustning,Redskap och utrustning,Reservdelar,Schaktmaskiner,Teleskoplastare,Utrustning för underjordsbrytning,Vägbyggnadsmaskiner,Vibratorplattor
+
+Lantbruk:
+Traktorer,Vallskörd,Jordbearbetning,Tröskor,Mineral- och stallgödselspridare,Bevattning,Inomgårdsutrustning,Lastning och grävning,Maskiner för sådd och sättning,Maskiner för väg och snö,Olivskördningsutrustning,Övriga lantbruksmaskiner,Potatisodlingsutrustning,Processering och lagring av skörd,Reservdelar,Självgående fälthackar,Terränghjulingar och skotrar,Tillbehör,Vagnar,Växtskyddsprutor,Vinodlings utrustning
+
+Transportfordon:
+Lastbilar,Lätta last- och skåpbilar < 3&comma;5 ton,Dragbilar,Trailers,Släpvagnar,Brandbilar & andra samhälls service bilar,Bussar,Containrar,Elektriska fordon,Lasthantering,Lösa byggnationer,Övriga,Personbilar,Reservdelar,Terrängfordon
+
+Materialhantering:
+Motviktstruckar,Staplare,Låglyftare,Skjutstativtruck,Specialutrustning,Containertruck,Lagerstädmaskiner,Lagerutrustning,Övriga,Plocktruckar,Reservdelar,Tillbehör och komponenter
+
+Grönytemaskiner:
+Gräsklippare,Sopmaskiner,Kompakttraktorer,Golf- och sport grönytemaskiner,Redskapsbärare,Häcksaxar,Kompakttraktor-tillbehör,Övriga grönytemaskiner,Reservdelar,Strand-rengöringsutrustning,Tvåhjulstraktorer och kultivatorer,Utrustning för högtryckstvätt,Verktygsfraktare
+
+Skogsmaskiner:
+Trähantering,Skördare,Skotare,Lunnare,Fällare-läggare,Drivare,Grävmaskiner,Kvistare,Övriga skogsmaskiner,Redskap och utrustning,Reservdelar,Sågverk,Skogstraktorer,Terminal Lastare
+
+------------------------------
+
+en
+
+Product group:
+Construction
+Agriculture
+Transportation
+Material Handling
+Groundcare
+Forestry
+
+Construction:
+Excavators,Loaders,Aerial platforms,Cranes,Waste / Recycling & Quarry Equipment,Asphalt machines,Attachments,Backhoe loaders,Compaction equipment,Compressor equipment,Concrete equipment,Dozers,Drilling equipment,Dumpers,Generators,Marine equipment,Oil and Gas Equipment,Piling equipment,Road construction,Telescopic handlers,Underground mining equipment,Construction - Others,Spare parts
+
+Agriculture:
+Tractors,Hay and forage machines,Tillage machines,Agricultural harvesters,Fertilizer application,Accessories,ATVs and snowmobiles,Crop processing and storage units/machines,Irrigation,Livestock machinery,Loading and digging,Olive harvesting machines,Potato equipment,Road and snow machines,Self-propelled foragers,Sowing and planting machines,Sprayers,Trailers,Wine growing equipment,Other agricultural machines,Spare parts
+
+Transportation:
+Trucks,Vans & light commercials,Tractor Units,Semi-trailers,Trailers,Bus / Coach,Cars,Containers,Cross-country vehicles,Electric vehicles,Load Handling,Loose superstructure,Public service vehicles,Other components,Spare parts
+
+Material Handling:
+Forklift trucks,Stackers,Pallet trucks,Reach trucks,Special applications,Attachments and components,Order pickers,Port and container equipment,Warehouse cleaning machines,Warehouse equipment,Others,Spare parts
+
+Groundcare:
+Mowers,Sweepers,Compact tractors,Golf and sports turf equipment,Utility machines,Beach cleaning equipment,Compact tractor attachments,Hedge trimmers,Pressure wash equipment,Two-wheeled tractors and cultivators,Utility tool carriers,Other groundcare machines,Spare parts
+
+
+Forestry:
+Wood processing&comma; chipping and recycling,Harvesters,Forwarders,Skidders,Feller bunchers,Accessories,Delimbers,Excavators,Forestry tractors,Harwarders,Knuckleboom loaders,Sawmills,Spare parts,Forestry - others
+
+----------------------
+
+dk
+
+NOTE: replace ATV'er!!!!!!!!!
+
+Produktgruppe:
+Entreprenør
+Landbrug
+Transport
+Trucks
+Have & Park
+Skovbrug
+
+Entreprenør:
+Gravemaskiner,Læssemaskiner,Lifte,Byggekraner, Statiske tårnkraner,Udstyr til affald/genbrug og stenbrud,Andet entreprenør-materiel,Asfaltmaskiner,Betonudstyr og -køretøjer,Boreudstyr/borerigge,Bulldozere,Dumpere,Generatorer,Jordkompaktorer,Kompressorudstyr,Marineudstyr,Olie- og gasudstyr,Piloteringsudstyr,Rendegravere,Reservedele,Teleskoplæssere,Tilbehør,Underjordisk mine udstyr,Vejbygningsmaskiner
+
+Landbrug:
+Traktorer,Hø- og grøntmaskiner,Maskiner til Jordbearbejdning,Høstmaskiner,Gyllehåndtering og Gødningsmaskiner,Afgrødehåndtering,Andre landbrugsmaskiner,ATV'er og snescootere,Kartoffelmaskiner,Læssere og gravere,Reservedele,Så- og plantemaskiner,Selvkørende finsnittere,Sprøjteudstyr,Staldmaskiner,Tilbehør,Udstyr til oliven høst,Vandingsudstyr,Vej- og snerydningsmaskiner,Vindyrkningsudstyr,Vogne og Anhængere
+
+Transport:
+Lastbiler,Varevogne & lette køretøjer,Trækkere,Semi-trailere,Anhængere,Andre komponenter,Biler,Brandbiler & andre kommunale køretøjer,Bus / Rutebil,Container/Løs påbygning,Containere / Skurvogne,Cross-country biler,Elektriske køretøjer,Reservedele,Udstyr til læssehåndtering
+
+Trucks:
+Gaffeltrucks,Stablere,Palleløftere,Reachtruck,Speciel anvendelse,Andre,Container trucks,Lagerrengøringsmaskiner,Lagerudstyr,Plukketrucks,Reservedele,Tilbehør og dele
+
+Have & Park:
+Græsslåmaskiner,Fejemaskiner,Kompakte traktorer,Udstyr til golf og græsbaner,Hjælpemaskiner,2-hjulede traktorer og kultivatorer,Andre have & park maskiner,Hækkeklippere,Højtryksrensnings-udstyr,Kompakttraktor tilbehør,Redskabsbærere,Reservedele,Strandrengøringsudstyr
+
+Skovbrug:
+Træbearbejdning, flishugning og genbrug,Skovningsmaskiner,Udkørselsmaskiner,Udslæbningstraktorer,Fældebunkelæggere,Afgreningsmaskine,Andre,Gravemaskiner til skovbrug,Knuckleboom læssere,Kombi skovnings-udkørselsmaskiner,Mobile savværk,Reservedele,Skovbrugstraktorer,Tilbehør
+
+-----------------------------------
+
+de
+
+Produktgruppe:
+Baumaschinen
+Landmaschinen
+LKW/Transport
+Flurförderzeuge
+Kommunal
+Forstmaschinen
+
+Baumaschinen:
+Bagger,Lader,Arbeitsbühnen,Krane,Abfall und Recycling sowie Steinbruchmaschinen,Asphaltmaschinen,Baggerlader,Baumaschinen - Andere,Bergbaumaschinen,Betonmaschinen,Bohrgeräte,Drucklufttechnik,Dumper,Ersatzteile,Öl- und Gas Zubehör,Planierraupen,Rammgeräte,Schiffsausrüstung,Straßenbaumaschinen,Stromaggregat,Teleskoplader,Verdichtungstechnik,Zubehör
+
+Landmaschinen:
+Traktoren,Grünlandgeräte,Bodenbearbeitung,Mähdrescher- und Zubehör,Düngemittelanwendung,Andere Landmaschinen,Anhänger,ATV/Quads/Motorschlitten,Bewässerung,Ernte Verarbeitung und -lagerung,Ersatzteile,Fütterungstechnik,Häcksler,Laden und Graben,Olivenernte Maschinen,Pflanzenschutzspritzen,Sämaschinen und Pflanzmaschinen,Schneeräumgeräte,Weinanbaumaschinen,Zubehör,Zubehör/sonstige Kartoffeltechnik
+
+LKW/Transport:
+Lastwagen,Transporter,Sattelzugmaschinen,Auflieger,Anhänger,Andere Zubehörteile,Busse / Reisebusse,Container,Elektrofahrzeuge,Ersatzteile,Geländewagen,Karosserie,Lastbehandlung,PKWs,Sonderfahrzeuge
+
+Flurförderzeuge:
+Gabelstapler,Hubwagen,Palettenstapler,Schubmaststapler,Spezialbauten,Andere,Ausstattung und Zubehör,Ersatzteile,Hafen- und Containerausrüstung,Kommissionierer,Lagerhaus Ausstattung,Reinigungsmaschinen
+
+Kommunal:
+Mäher,Kehrer,Kleintraktoren,Golfsport Zubehör,Arbeitsfahrzeuge,Andere Kommunalmaschinen,Druckwasserreiniger,Ersatzteile,Geräteträger,Heckenscheren,Kompakttraktor-Aufsätze,Strandreinigungsgeräte,Zweirädrige Traktoren und Grubber
+
+Forstmaschinen:
+Holzverarbeitung, Chipping und Recycling,Harvester,Forwarder,Stammholzschlepper,Forstanhänger/Rückewagen,Andere,Bagger,Entastungsgerät,Ersatzteile,Forsttraktoren,Gelenkausleger Lader,Harwarder,Sägewerke,Zubehör
+---------------------------------------
+fr 
+
+
+Catégorie:
+Travaux Publics
+Agricole
+Transport
+Manutention
+Espace Vert
+Forestier
+
+Travaux Publics:
+Pelle,Chargeuse,Nacelle élévatrice,Grue,Concasseurs / Recyclage et Matériel de Carrière,Accessoires matériel TP,Autres matériels TP,Bulldozer,Chariot télescopique,Compacteur,Équipement de pétrole et de gaz,Equipement marin,Equipement minier souterrain,Equipements de compresseur,Foreuse,Groupe électrogène,Matériel béton,Matériel d'enfonçage,Matériel pour bitume/asphalte,Matériel pour travaux routiers,Pièces de Rechange,Tombereau,Tractopelle
+
+Agricole:
+Tracteur,Matériel de fenaison,Outils de préparation du sol,Moissonneuse batteuse,Epandage,Accessoires pour tracteur,Autres matériels agricoles,Chargeur, fourche agricole,Ensileuse,Irrigation,Machine pour la récolte d'olives,Matériel d'élevage,Matériel pomme de terre,Matériel pour route et neige,Matériel viticole,Pièces de Rechange,Pulvérisateur,Quad et motoneige,Remorque agricole,Semoir et planteuse agricole,Stockage&comma; conditionnement
+
+Transport:
+Camion,Fourgon / Utilitaire,Tracteur routier,Semi remorque,Remorque,Autobus, Autocar,Autres pièces,Camions et véhicules de voirie,Carrosserie,Container&comma; bungalow,Grue, Chargement,Pièces de Rechange,Véhicules Cross-Country,Véhicules électriques,Voiture
+
+Manutention:
+Chariot élévateur / Magasinage,Gerbeurs,Transpalettes,Chariot à mât rétractable,Eléments spécifiques,Accessoires et composants,Autre matériel de manutention,Balayeuses d'entrepôt,Equipement d atelier,Equipement portuaire et conteneur,Pièces de Rechange,Préparateur de commandes
+
+Espace Vert:
+Tondeuse,Balayeuse / Autolaveuse,Micro tracteur,Equipement de gazon professionnel et Gazon,Mini utilitaire,Accessoires d'attache pour tracteurs compacts,Autres matériels d'espace vert,Epareuse,Équipement de nettoyage de plage,Motoculteur et tracteur deux roues,Nettoyeur à pression,Pièces de Rechange,Utilitaire porte-outils
+
+Forestier:
+Station de transformation du bois&comma; poncage et recyclage,Abatteuse,Porteur,Débusqueur,Abatteuse groupeuse,Abatteuse porteur,Accessoires matériel forestier,Autre matériel forestier,Chargeuse forestière,Ebrancheuses,Pelle forestière,Pièces détachées pour matériel forestier,Scierie mobile,Tracteurs forestiers
+
+------------------------------------
+es
+
+Grupo de productos:
+Construcción
+Agricultura
+Transporte
+Almacenaje
+Jardinería
+Forestal
+
+Construcción:
+Excavadoras,Cargadoras,Plataformas y grúas,Grúas,Perforación y pilotaje,Accesorios e implementos,Bulldozers,Carretillas telescópicas,Construcción - Otros,Dúmpers,Equipamiento de Aceite y Gas,Equipamiento de perforación,Equipo de compactación,Equipo de compresión,Equipo de pilotaje,Equipos Marítimos,Equipos para la minería subterránea,Generadores,Hormigoneras y otros vehículos,Máquinas de asfalto,Máquinas para construcción de carreteras,Recambios,Retrocargadoras
+
+Agricultura:
+Tractores,Máquinas para heno y forraje,Maquinaria de labranza o aperos,Cosechadoras,Aplicación para fertilización,Accesorios,Carga y excavación,Cosechadora de aceitunas y vibradores,Equipos para patatas,Maquinaria para carreteras y quitanieves,Maquinaria para ganadería,Maquinaria vitícola,Máquinas de siembra y plantación,Otra maquinaria agrícola usada,Picadoras de forraje,Procesadoras de cultivos y unidades de almacenamiento / máquinas,Pulverizadoras,Recambios,Remolques,Riego,Todoterrenos y motonieves
+
+Transporte:
+Camiones,Furgonetas y vehículos comerciales ligeros,Cabezas tractoras,Semirremolques,Remolques,Autobuses / autocares,Coches,Contenedores,Grúas de carga,Otros componentes - Transporte,Recambios,Superestructura suelta,Todoterrenos,Vehículos de servicio público,Vehículos eléctricos
+
+Almacenaje:
+Carretillas elevadoras,Apilador,Transpaleta,Carretillas retráctiles,Aplicaciones especiales,Accesorios y componentes,Carretillas gran capacidad para contenedores,Equipos de almacén,Maquinaria para limpieza de almacenes,Otros,Preparadores de pedido,Recambios
+
+Jardinería:
+Cortacéspedes,Barredoras,Tractores compactos,Equipos para césped de golf y deportes,Maquinaria para servicios públicos,Accesorios para tractores compactos,Cortasetos,Equipos de lavado a presión,Maquinaria para limpieza de playas,Otras máquinas de paisajismo y limpieza urbana,Portaherramientas,Recambios,Tractores y cultivadores de dos ruedas
+
+Forestal:
+Procesador de madera,Cosechadoras,Autocargadoras,Arrastrador de troncos,Talador apilador,Accesorios,Cargadora forestal,Cosechadora-autocargadora,Desramador,Excavadoras,Máquina de sierra,Otros,Repuestos,Tractor forestal
+
+------------------------
+it 
+
+Gruppo prodotti:
+Costruzioni
+Agricoltura
+Trasporto
+Movimentazione materiali
+Trattamento terreno
+Forestale
+
+Costruzioni:
+Escavatori,Pale,Piattaforme aeree,Gru,Macchinari da cava & riciclaggio,Accessori,Attrezzatura per compattazione,Attrezzatura per compressori,Attrezzatura per pali,Attrezzatura per perforazione,Attrezzature marine,Attrezzature per estrazione sotterranea,Bulldozers,Costruzioni - Altri,Dumpers,Generatori,Macchinari Oil e Gas,Macchinari per Calcestruzzo,Macchine e impianti per asfalto,Macchine per lavori stradali,Movimentatori telescopici,Pezzi di ricambio,Terne
+
+Agricoltura:
+Trattori,Macchine per fieno e foraggio,Macchine per l'aratura,Macchine per la mietitura,Fertilizzazione,Accessori,Altro,Atomizzatori,Attrezature per la viticoltura,Attrezzature raccolta patate,Attrezzature per la raccolta delle olive,ATV e motoslitte,Irrigazione,Macchinari per bestiame,Macchine per la semina e l'interramento,Macchine/unitá di lavorazione e stoccaggio,Manutenzione stradale invernale,Movimento terra,Pezzi di ricambio,Rimorchi,Trincia semoventi
+
+Trasporto:
+Camion Rigidi,Furgoni e veicoli commerciali leggeri,Motrici,Semirimorchio,Rimorchi,Allestimenti,Altri componenti,Auto,Autobus / Bus turistici,Container,Movimentazione carico,Pezzi di ricambio,Veicoli cross-country,Veicoli Elettrici,Veicoli per il pubblico servizio
+
+Movimentazione materiali:
+Carrelli elevatori a forche,Stoccatori,Transpallet,Carrello retrattile,Applicazioni speciali,Altro,Attacchi e componenti,Attrezzature da magazzino,Commissionatori,Macchine per la pulizia industriale,Mezzi movimentazione portuale e container,Pezzi di ricambio
+
+Trattamento terreno:
+Tagliaerba e falciatrici,Spazzatrici,Trattori compatti,Macchinari per trattamento campi da golf e sport,Veicoli utilitari,Altre macchine per trattamento terreno,Attrezzature per trattori compatti,Equipaggiamenti per il lavaggio a pressione,Macchine puliscispiaggia,Motocoltivatori e trattori due ruote motrici,Pezzi di ricambio,Tagliasiepi,Utility porta attrezzi
+
+Forestale:
+Lavorazione del legno&comma; taglio e riciclaggio,Disboscatrici,Forwarder,Esboscatrici,Abbattitrici,Accessori,Altro,Caricatronchi con base su rimorchio,Delimber,Escavatori,Harwarders,Pezzi di ricambio,Segherie,Trattori per selvicoltura
+
+-------------------------------
+
+pl 
+
+Grupa produktów:
+Maszyny budowlane
+Maszyny rolnicze
+Transport
+Magazynowanie
+Komunalne
+Maszyny leśne
+
+Maszyny budowlane:
+Koparki,Ładowarki,Podnośniki platformy i żurawie,Dźwigi,Odpady / Recykling i Wyposażenie kamieniołomów,Agregaty prądotwórcze,Akcesoria budowlane,Betoniarki, Gruszki do betonu i pojazdy do przewożenia,Części zamienne,Inny sprzęt budowlany,Koparko -ładowarki,Ładowarki teleskopowe,Maszyny do asfaltu,Maszyny drogowe,Maszyny wiertnicze,Podziemne urządzenia dla górnictwa,Sprężarki,Sprzęt do ropy i gazu,Sprzęt do zagęszczania,Sprzęt morski,Spycharki,Urządzenia do palowania,Wozidła
+
+Maszyny rolnicze:
+Traktory,Maszyny do siana i pasz,Agregaty uprawowe,Kombajny,Rozsiewacze,Akcesoria,Akcesoria rolnicze,Części zamienne,Maszyny do obsługi inwentarza żywego,Maszyny do zbioru oliwek,Maszyny drogowe i odśnieżające,Maszyny uprawowe,przechowalnie,Nawadnianie,Opryskiwacze,Pojazdy terenowe i skutery śnieżne,Przyczepy rolnicze,Sieczkarnie,Siewniki i sadzarki,Sprzęt do uprawy winorośli,Sprzęt do ziemniaków,Załadunek i kopanie
+
+Transport:
+Samochody ciężarowe,Samochody dostawcze i vany,Ciągniki siodłowe,Naczepy,Przyczepy samochodowe,Akcesoria samochodowe,Autobusy / Autokary / Mikrobusy,Części zamienne,Kontenery budowlane,Kontenery wymienne,Pojazdy elektryczne,Pojazdy terenowe,Samochody,Sprzęt do ładowania,Wozy strażackie & inne pojazdy służb publicznych
+
+Magazynowanie:
+Wózki widłowe,Maszyny do załadunku,Wózki paletowe,Wózki widłowe wysokiego składowania,Aplikacje specjalne,Akcesoria magazynowe,Części zamienne,Maszyny do czyszczenia magazynów,Osprzęt i komponenty,Sprzęt do portów i przeładunku kontenerów,Układacze,Wyposażenie magazynów
+
+Komunalne:
+Kosiarki do trawy,Zamiatarki - Zgarniarki - Odśnieżarki,Mikrociągniki,Sprzęt do muraw golfowych i sportowych,Maszyny komunalne,Ciągniki dwukołowe i kultywatory,Części zamienne,Inne maszyny komunalne,Maszyny użytkowe nośniki narzędzi,Nożyce do żywopłotu,Przyrządy do ciągników kompaktowych,Sprzęt do sprzątania plaży,Urządzenia do mycia
+
+Maszyny leśne:
+Urządzenia do przetwórstwa drewna&comma;rozdrabniania i recyklingu,Harwestery,Forwardery,Skidery,Harwestery gąsienicowe,Akcesoria,Części zamienne,Harwardery,Inne,Koparki leśne,Ładowarki typu &quot;knuckleboom&quot;,Maszyny do okrzesywania gałęzi,Traki,Traktory leśne
+
+-------------------------
+
+tk 
+
+Ürün grubu:
+İş Makinaları
+Tarım Makinaları
+Ağır Vasıtalar
+Malzeme Taşıma
+Küçük İş Makinaları
+Ormancılık
+
+İş Makinaları:
+Ekskavatörler,Yükleyiciler,Platformlar,Vinçler,Çöp, geri dönüsüm ve ocak ekipmanlari,Aksesuarlar,Asfalt makinaları,Beton ekipmanlari,Damperli kamyonlar,Deliciler,Denizcilik ekipmanları,Dozerler,Fore kazık ve ankraj makinaları,İş makinaları - diğer,Jeneratör,Kazıcı yükleyiciler - beko loder,Kompresörler,Petrol ve Gaz Ekipmanları,Teleskopik yükleyiciler,Yedek parça,Yeraltı maden makinaları,Yol yapimi,Zemin sıkıştırma
+
+Ürün grubu:
+Tarım Makinaları,Traktörler,Saman ve yem makinalari,Toprak isleme makinalari,Biçerdöverler,Gübre uygulamalari,ATVler ve kar motosikletleri,Diger tarim makinalari,Ekim dikim makinalari,Ekin işleme ve depolama üniteleri/makineleri,Hayvancilik makinalari,Kar ve yol makinalari,Kendi yürür silaj makinalari,Olive harvesting machines,Potato equipment,Pulverizatörler,Römorklar,Sarap üretim makinalari,Sulama,Traktör aksesuarlari,Yedek parça,Yükleme ve kazma
+
+Ağır Vasıtalar:
+Kamyonlar,Küçük ticari araçlar,Çekiciler,Yari çekiciler,Römorklar,Cross-country vehicles,Diger aksam,Elektrikli araçlar,Kamu hizmet araçlari,Konteynerler,Otobüsler,Otomobiller,Römorklar,Yedek parça,Yükleme
+
+Malzeme Taşıma:
+Forkliftler,Depo ekipmanları,İstif makinaları,Reach truck - depo içi istif araçları,Özel uygulamalar,Aksesuarlar,Digerleri,Konteyner forklifti,Sipariş toplayıcılar,Warehouse cleaning machines,Warehouse equipment,Yedek parça
+
+Küçük İş Makinaları:
+Çayir biçme makinalari,Cadde süpürücüler,Traktörler,Golf ve spor çim saha ekipmanları,Küçük araçlar,Basinçli yikama makinalari,Çit budama makinaları,Diger yol bakim makinalari,İki tekerlekli traktörler ve kültivatörler,Kompakt traktör aksesuarları,Sahil temizleme ekipmanları,Takim tasiyicilar,Yedek parça
+
+Ormancılık:
+Wood processing, chipping and recycling,Biçerdöverler,Tomruk yükleyici traktörler,Sürütücüler,Ağaç kesici istifleyiciler,Agaç kesme siyirma makinalari,Aksesuarlar,Delimbers,Diger,Ekskavatörler,Forestry tractors,Hızarlar,Mafsalli yükleyiciler,Yedek parçalar
+
+
+
+============================================
+
+
+fi
+Accurate Fabricating,Airman,Ammann,Atlas,Atlas Copco,Ausa,Avant,Bedrock,Bell,Bobcat,Bomag,Bosch,Carraro,CASE,Caterpillar,Cathefeng,Cummins,Daewoo,Demag,Deutz,Dieci,Ditch Witch,Donaldson,Doosan,Dynapac,
+Ema,Fiat-Allis,Fiat-Hitachi,Fiat-Kobelco,Furukawa,Gehl,Genie,Grove,Hamm,Hammer,Hanomag,Haulotte,Hitachi,Hydrema,Hydromatik,Hyundai,IHI,Ingersoll Rand,Iveco,JCB,JLG,John Deere,Kato,Kawasaki,Kobelco,
+Komatsu,Kramer,Krupp,Kubota,Laten,Liebherr,Liming,Linde,Link-Belt,Magni,Manitou,Mecalac,Mercedes-Benz,Merlo,Metso,Muut,Neuson,New Holland,Niftylift,O&K,Perkins,Poclain,Potain,PowerScreen,Pramac,
+Rexroth,Sandvik,Sany,Schaeff,Schäffer,Shantui,SkyJack,Sullair,Sumitomo,Tadano,Takeuchi,Terex,Thwaites,Wacker,Wacker Neuson,Verachtert,Vermeer,Wirtgen,Volvo,Vögele,XCMG,Xuetao,Yanmar,ZF,Åkerman,
+
+se
+Amazone,Ammann,Atlas,Atlas Copco,Avant,Bobcat,Bomag,Bosch,BT,Carraro,CASE,Case IH,Caterpillar,Citroën,CLAAS,Clark,Cummins,DAF,Demag,Deutz,Deutz-Fahr,Ditch Witch,Doosan,Dynapac,Fendt,
+Fiat,Fiat-Hitachi,Fliegl,Ford,Freightliner,Genie,Grove,Hamm,Hardi,Haulotte,Hitachi,Hydromatik,Hyster,Hyundai,Ingersoll Rand,International,Isuzu,Iveco,JCB,JLG,John Deere,Jungheinrich,Kalmar,Kobelco,Komatsu,
+Kongskilde,Krone,Kubota,Kuhn,Kverneland,Lemken,Liebherr,Liming,Linde,Mack,MAN,Manitou,Massey Ferguson,Mecalac,Mercedes-Benz ( )Merlo,Michelin,Mitsubishi,Neuson,New Holland,Nissan,O&K,Opel,Perkins,Peugeot,
+Poclain,Pöttinger,Renault,Rexroth,Scania,Schmitz Cargobull,SkyJack,Stiga,Still,Takeuchi,TCM,Terex,Toyota,Wacker Neuson,Valmet,Valtra,Vermeer,Volkswagen,Volvo,Väderstad,Vögele,Yale,Yanmar,ZF,Övrigt,
+
+en
+Afrit,Atlas,Audi,Benalu,Blue Bird,BMW,Boro,Broshuis,Burg,Caterpillar,Chereau,Chevrolet,Citroën,Cormach,Cummins,DAF,Detroit,Deutz,Ekeri,Fassi,Faymonville,Fiat,Fliegl,Ford,Freightliner,
+Fruehauf,Fuso,GMC,Goldhofer,Great Dane,Henred,Hiab,Hino,HMF,Humbaur,Ifor Williams,International,Irisbus,Isuzu,Iveco,Kässbohrer,Kel-Berg,Kenworth,Knapen,Kögel,Krone,LAG,Lamberet,Land Rover,Langendorf,
+Lecinena,Lecitrailer,Liebherr,Mack,Magyar,MAN,Manitex,Meiller,Mercedes-Benz,Mitsubishi,Möslein,Müller-Mitteltal,Närko,Neoplan,NIEWIADOW,Nissan,Nooteboom,Opel,Others,Pacton,Palfinger,Pegaso,Peterbilt,Peugeot,Porsche,
+Renault,Renders,Samro,Scania,Schmitz,Schmitz Cargobull,Schwarzmüller,Setra,Sino,Sinotruk,Sisu,Sterling,Tatra,Terex,Toyota,Trail King,Trailor,Unimog,Van Hool,VDL,VDL Berkhof,Volkswagen,Volvo,Western Star,ZF,
+
+dk
+Amazone,Ammann,Andet udstyr,Atlas,Atlas Copco,Avant,Bobcat,Bomag,Bosch,BT,Carraro,CASE,Case IH,Caterpillar,Citroën,Clark,CLAAS,Cummins,DAF,Demag,Deutz,Deutz-Fahr,Ditch Witch,Doosan,Dynapac,
+Fendt,Fiat,Fiat-Hitachi,Fliegl,Ford,Freightliner,Genie,Grove,Hamm,Hardi,Haulotte,Hitachi,Hydromatik,Hyster,Hyundai,Ingersoll Rand,International,Isuzu,Iveco,JCB,JLG,John Deere,Jungheinrich,Kalmar,Kobelco,
+Komatsu,Kongskilde,Krone,Kubota,Kuhn,Kverneland,Lemken,Liebherr,Liming,Linde,Mack,MAN,Manitou,Massey Ferguson,Mecalac,Mercedes-Benz,Merlo,Michelin,Mitsubishi,Neuson,New Holland,Nissan,O&K,Opel,Perkins,
+Peugeot,Poclain,Pöttinger,Renault,Rexroth,Scania,Schmitz Cargobull,SkyJack,Stiga,Still,Takeuchi,TCM,Terex,Toyota,Valmet,Valtra,Vermeer,Volkswagen,Volvo,Väderstad,Vögele,Wacker Neuson,Yale,Yanmar,ZF,
+
+de
+Adler,Agma,Agrosat,Amazone,Andere,Avant,Bad Boy,BCS,Befco,Bema,Billy Goat,Bobcat,Bomford,Boschung,Broce,Bucher,Carraro,CLAAS,Club Car,Cub Cadet,Cummins,Dancover,Dulevo,Dynapac,Egholm,
+Elgin,Epoke,Etesia,E-Z-GO,Ferrari,Ferris,Gianni Ferrari,Gmeiner,GMR,Grasshopper,Grillo,Hako,Hayter,Holder,Honda,HTF,Husqvarna,Hustler,Iseki,Jacobsen,John Deere,Johnston,Jonsered,Kärcher,Kioti,
+Kubota,Kuhn,Lay-Mor,Makita,MAN,Maschio,Massey Ferguson,McConnel,Meijer,Mercedes-Benz,Mitsubishi,MTD,Mulag,Multicar,Nesbo,New Holland,Nibbi,Nilfisk,Ortolan,Padagas,Peruzzo,Pomarol,Pronar,Ransomes,Ravo,
+Scag,Schmidt,Shibaura,Simplicity,Snapper,Spearhead,Stama,Stensballe,Stiga,Tennant,Texas,Toro,Trimax,Tuchel,Tymco,Unimog,Uniter,Vitra,VPM,Walker,Westermann,Wille,Woods,Yamaha,Yanmar,
+
+fr
+Ahwi,Amkodor,Autres,Balfor,Bandit,Barko,Berti,Binderberger,Biojack,BMF,Bracke,Bruks,Caterpillar,CBI,CLAAS,Clark,CSI,Doppstadt,Dutch Dragon,Duun,Eco Log,Eschlböck,Farma,Farmi,Farmi Forest,
+Fecon,Fliegl,Fort,Fransgård,GMC,Greenmech,Greentec,Gremo,Hakki,Hakki Pilke,Heizohack,HSM,HSP,Igland,Indexator,Japa,Jema,Jensen,Jenz,John Deere,Junkkari,Kesla,Komatsu,Krpan,Lasco,
+Lindana,LKT,Log Max,Loglift,Logset,Mesera,Moheda,Morbark,Möre,Mowi,Nokian,Nokka,Ofa,Olofsfors,Palax,Palms,Parker,Patu,PC,Peterson Pacific,Pezzolato,Pfanzelt,Pilkemaster,Ponsse,Posch,
+Prentice,Rottne,Schliesing,Seppi,Silvatec,SP,Split-Fire,Tajfun,Techmaflex,Teknamotor,Tigercat,Timberjack,Timberwolf,TP,Trak-Met,Uniforest,Vahva,Valmet,Valtra,Vermeer,Vimek,Vreten,Wallenstein,Waratah,Welte,
+
+es
+Amazone,Ammann,Atlas,Atlas Copco,Avant,Bobcat,Bomag,Bosch,BT,Carraro,CASE,Case IH,Caterpillar,Citroën,CLAAS,Clark,Cummins,DAF,Demag,Deutz,Deutz-Fahr,Ditch Witch,Doosan,Dynapac,Fendt,
+Fiat,Fiat-Hitachi,Fliegl,Ford,Freightliner,Genie,Grove,Hamm,Hardi,Haulotte,Hitachi,Hydromatik,Hyster,Hyundai,Ingersoll Rand,International,Isuzu,Iveco,JCB,JLG,John Deere,Jungheinrich,Kalmar,Kobelco,Komatsu,
+Kongskilde,Krone,Kubota,Kuhn,Kverneland,Lemken,Liebherr,Liming,Linde,Mack,MAN,Manitou,Massey Ferguson,Mecalac,Mercedes-Benz,Merlo,Michelin,Mitsubishi,Neuson,New Holland,Nissan,O&K,Opel,Otros,Perkins,
+Peugeot,Poclain,Pöttinger,Renault,Rexroth,Scania,Schmitz Cargobull,SkyJack,Stiga,Still,Takeuchi,TCM,Terex,Toyota,Väderstad,Valmet,Valtra,Vermeer,Vögele,Volkswagen,Volvo,Wacker Neuson,Yale,Yanmar,ZF,
+
+it
+Altro,Amazone,Ammann,Atlas,Atlas Copco,Avant,Bobcat,Bomag,Bosch,BT,Carraro,CASE,Case IH,Caterpillar,Citroën,CLAAS,Clark,Cummins,DAF,Demag,Deutz,Deutz-Fahr,Ditch Witch,Doosan,Dynapac,
+Fendt,Fiat,Fiat-Hitachi,Fliegl,Ford,Freightliner,Genie,Grove,Hamm,Hardi,Haulotte,Hitachi,Hydromatik,Hyster,Hyundai,Ingersoll Rand,International,Isuzu,Iveco,JCB,JLG,John Deere,Jungheinrich,Kalmar,Kobelco,
+Komatsu,Kongskilde,Krone,Kubota,Kuhn,Kverneland,Lemken,Liebherr,Liming,Linde,Mack,MAN,Manitou,Massey Ferguson,Mecalac,Mercedes-Benz,Merlo,Michelin,Mitsubishi,Neuson,New Holland,Nissan,O&K,Opel,Perkins,
+Peugeot,Poclain,Pöttinger,Renault,Rexroth,Scania,Schmitz Cargobull,SkyJack,Stiga,Still,Takeuchi,TCM,Terex,Toyota,Väderstad,Valmet,Valtra,Vermeer,Vögele,Volkswagen,Volvo,Wacker Neuson,Yale,Yanmar,ZF,
+
+pl
+Amazone,Ammann,Atlas,Atlas Copco,Avant,Bobcat,Bomag,Bosch,BT,Carraro,CASE,Case IH,Caterpillar,Citroën,CLAAS,Clark,Cummins,DAF,Demag,Deutz,Deutz-Fahr,Ditch Witch,Doosan,Dynapac,Fendt,
+Fiat,Fiat-Hitachi,Fliegl,Ford,Freightliner,Genie,Grove,Hamm,Hardi,Haulotte,Hitachi,Hydromatik,Hyster,Hyundai,Ingersoll Rand,Inne,International,Isuzu,Iveco,JCB,JLG,John Deere,Jungheinrich,Kalmar,Kobelco,
+Komatsu,Kongskilde,Krone,Kubota,Kuhn,Kverneland,Lemken,Liebherr,Liming,Linde,Mack,MAN,Manitou,Massey Ferguson,Mecalac,Mercedes-Benz ( )Merlo,Michelin,Mitsubishi,Neuson,New Holland,Nissan,O&K,Opel,Perkins,
+Peugeot,Poclain,Pöttinger,Renault,Rexroth,Scania,Schmitz Cargobull,SkyJack,Stiga,Still,Takeuchi,TCM,Terex,Toyota,Väderstad,Valmet,Valtra,Vermeer,Vögele,Volkswagen,Volvo,Wacker Neuson,Yale,Yanmar,ZF,
+
+tk
+Amazone,Ammann,Atlas,Atlas Copco,Avant,Bobcat,Bomag,Bosch,BT,Carraro,CASE,Case IH,Caterpillar,Citroën,CLAAS,Clark,Cummins,DAF,Demag,Deutz,Deutz-Fahr,Digerleri,Ditch Witch,Doosan,Dynapac,
+Fendt,Fiat,Fiat-Hitachi,Fliegl,Ford,Freightliner,Genie,Grove,Hamm,Hardi,Haulotte,Hitachi,Hydromatik,Hyster,Hyundai,Ingersoll Rand,International,Isuzu,Iveco,JCB,JLG,John Deere,Jungheinrich,Kalmar,Kobelco,
+Komatsu,Kongskilde,Krone,Kubota,Kuhn,Kverneland,Lemken,Liebherr,Liming,Linde,Mack,MAN,Manitou,Massey Ferguson,Mecalac,Mercedes-Benz,Merlo,Michelin,Mitsubishi,Neuson,New Holland,Nissan,O&K,Opel,Perkins,
+Peugeot,Poclain,Pöttinger,Renault,Rexroth,Scania,Schmitz Cargobull,SkyJack,Stiga,Still,Takeuchi,TCM,Terex,Toyota,Väderstad,Valmet,Valtra,Vermeer,Volkswagen,Volvo,Vögele,Wacker Neuson,Yale,Yanmar,ZF,

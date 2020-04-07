@@ -1,0 +1,330 @@
+---------------------- cat2 ala kategoriat SE ----------------------
+
+
+SE - CAT 3 JSON:
+"Bildelar & biltillbehör" : "Bilstereo,Däck & fälg,GPS,Reservdelar,Släp,Takboxar & takräcken,Övrigt",
+"Båtar" : "0-3,4,5,6,7,8,9,10,11,12+",  /* ( + ' meter')   price */
+"Båtdelar & tillbehör" : "Motor & propeller,GPS & navigering,Båtplats & förvaring,Trailer,Övrigt",
+"Husvagnar & husbilar" : "Husvagn,Husbil,Tillbehör", /* price */
+"Mopeder & A-traktor" : "Mopeder,A-Traktorer,Tillbehör",	/* price */
+"Motorcyklar" : "Cross/enduro,Custom,Fyrhjuling/ATV,Offroad,Scooter,Sport,Touring,Övrigt", /* price  year*/
+"MC-delar & tillbehör" : "Däck & fälg,Reservdelar,Hjälm/skydd/kläder,Övrigt",
+"Lastbil, truck & entreprenad" : "Entreprenad­maskiner,Lastbil & buss,Truck & material­hantering",	/* price */
+"Skogs- & lantbruksmaskiner" : "Grönyte­maskiner,Lantbruks­maskiner,Skogs­maskiner", /* price */
+"Snöskotrar" : "", /* price */
+"Snöskoterdelar & tillbehör" : "",
+"Bygg & trädgård" : "Badrum/WC/bastu,Byggmaterial,Kamin & värme,Kök,Trädgårds­maskiner,Trädgård & uteplats,Övrigt",
+"Möbler & heminredning" : "Antikt & konst,Belysning,Bord & stolar,Hemtextil & prydnad,Hyllor & förvaring,Mattor,Säng & sovrum,Soffa/fåtölj/soffmöbler,TV- & stereomöbler,Övrigt",
+"Husgeråd & vitvaror" : "Diskmaskin,Kyl & frys,Kökstillbehör & porslin,Spis & micro,Tvättmaskin & torktumlare,Övrigt",
+"Verktyg" : "",
+"Kläder & skor" : "Brudklänningar,Byxor,Jackor & ytterplagg,Jeans,Kjolar & klänningar,Kostymer & kavajer,Skjortor,Skor,Toppar,Tröjor,Övrigt", /* o  Dam & herr  o  Dam   o Herr */
+"Accessoarer & klockor" : "Klockor,Smycken,Väskor,Övrigt",
+"Barnkläder & skor" : "Kläder,Skor",  /*  o Flicka & pojke   o Flicka  o Pojke   o Unisex */
+"Barnartiklar & leksaker" : "Barnmöbler,Barnvagnar & tillbehör,Bilbarnstolar,Leksaker,Övrigt",
+"Datorer & TV-spel" : "Stationära datorer,Bärbara datorer,Surfplattor,Datortillbehör & program,PC-spel & onlinespel,TV-spel,Övrigt",
+"Ljud & bild" : "Filmer & musik,Foto- & videokameror,MP-spelare,Stereo & surround,Video- & DVD-spelare,TV & projektor,Övrigt",
+"Telefoner & tillbehör" : "Telefoner ,Tillbehör",
+
+"Biljetter" : "Konsert,Teater & show,Presentkort,Sport,Övrigt",
+"Resor" : "Tåg,Charter- & paketresor,Övriga resor",
+"Böcker & studentlitteratur" : "", /* empty */
+"Cyklar" : "Dam,Herr,Barn,Mountainbike,Racer,Övriga cyklar,Tillbehör",
+"Djur" : "Hund,Katt,Katt- & hundtillbehör,Gnagare & kaniner,Reptil,Fågel,Fisk,Lantbruksdjur,Övriga djur,Tillbehör",
+"Hobby & samlarprylar" : "Frimärken & mynt,Hobbyfordon,Radiostyrt & modell,Serietidningar,Symaskin & textil,Historiska föremål,Övrigt",
+"Hästar & ridsport" : "Hästar,Ponnys,Utrustning,Foder & stall,Medryttare & fodervärd,Släp & transport,Övrigt",
+"Jakt & fiske" : "Jakt,Fiske,Övrigt",
+"Musikutrustning" : "Gitarr/bas/förstärkare,Piano & klaviatur,Dragspel,Blåsinstrument,Trummor & slagverk,Studio- & scenutrustning,Övrigt",
+"Sport & fritid" : "Bollsport,Camping & friluftsliv,Dyk- & vattensport,Golf,Träning & hälsa,Vintersport,Övrigt",
+
+"Affärsöverlåtelser" : "Butik,Domäner & sajter,Frisörsalong,Restaurang & café,Övrigt",
+"Inventarier & maskiner" : "Butik & kassa,Frisör- & skönhetssalong,Kontor,Industrimaskiner,Restaurang & café,Varuparti & konkurslager,Övrigt",
+"Lokaler & fastigheter" : "Butiker,Industri & verkstad,Lager & förråd,Kontor,Övrigt",  /* price  areaStart areaEnd (0,50,100,150,200,300,400,500,800,1 000,1 500,2 000,2 500,3 000,*ver 3 000    Min area,Max area)*/
+"Tjänster" : "Bil & motor,Catering,Data,Djuravel,Ekonomi,Flytt & transport,Hantverkare,Hundvakt & djurskötsel,Kosmetik & hårvård,Musik & underhållning,Städning,Trädgård & markarbeten,Undervisning",
+"Efterlysningar" : "", (empty)
+"Övrigt" : "", (empty)
+
+---------------------- cat2 ala kategoriat FI ----------------------
+FI - CAT 3 JSON:
+"xxxxxxxx" : "xxxxx",
+
+
+
+
+Kaikki alaosastotAutostereot ja tarvikkeetAutovaraosatKattotelineet ja boksitPeräkärryt ja traileritRenkaat ja vanteetMuut autotarvikkeet
+
+
+
+
+
+Kaikki alaosastotAutostereot ja tarvikkeetAutovaraosatKattotelineet ja boksitPeräkärryt ja traileritRenkaat ja vanteetMuut autotarvikkeet
+
+
+
+
+
+
+--------------- heavy machinery icons ----------------------
+Agriculture
+Transportation
+Construction
+Material Handling
+Forestry
+Groundcare
+--
+Agriculture			tractorIcon		
+Transportation		trailerIcon
+Construction		excavatorIcon
+Material Handling 	forkliftIcon
+Forestry			loaderIcon2 loaderIcon logsIcon
+Groundcare			miniTractorIcon  roadSweeperIcon
+--
+Building construction craneIcon craneIcon2
+Road Construction  	roadRollerIcon (jyrä)
+
+
+
+
+----------------- CAR search criteria -----------------------
+FI
+
+
+priceStart
+SE 0,5,10-30,35,40,45,50,Över 50 (+' 000')   SE Esim: 0,5 000,10 000,20 000... 
+FI 0,500,1 000,2 000,4 000,6 000,8 000,10 000,12 500,15 000,17 500,20 000,25 000,30 000,40 000,50 000,Yli 50 000
+Pris från	Min hinta   
+
+priceEnd
+sama kuin start
+paitsi ei 0
+lisäksi ,Över 50	,Yli 50 000
+Pris till	Max hinta
+
+
+modelStart
+SE thisYear-1980,70-tal,60-tal,50-tal,40-tal,30-tal eller äldre
+FI thisYear-1980,70-luku,60-luku,50-luku  
+Modellår från	Min vuosimalli
+
+modelEnd
+sama paitsi viimeiseen lisää ' tai vanhempi'
+Modellår till	Max vuosimalli
+
+
+drivenStart
+SE 0-9500 (500 välein),10000-2000 (1000 välein),25-50 (5000 välein)
+FI 0,5 000-100 000 (5000 välein),100 000-190 000 (10000 välein),200 000-500 000(10000 välein)    jokaiseen + ' km'
+Miltal från 	Min mittarilukema
+
+drivenEnd
+SE 0-9500 (500 välein)-1!,10000-2000 (1000 välein)-1,25-50 (5000 välein)-1,mer än 50 000
+FI 'Uudet autot' + sama(ilman ekaa) + 'Yli 500 000'    jokaiseen + ' km'
+Miltal till		Max mittarilukema
+
+
+hpStart
+SE 0,40-300 (20 välein),330-500 (50 välein)
+FI 0,40-300 (20 välein)
+Hästkrafter från 	Min hevosoima
+
+hpEnd
+sama kuin start mutta ilman ekaa
++ Över 500	 	+ 'Yli 300'
+Hästkrafter till	Max hevosoima
+
+--
+fuelType
+SE Bensin,Diesel,El,Miljöbränsle/Hybrid,Gas,E85 / Flexifuel
+FI Bensiini,Diesel,Hybridi,Kaasu,Sähkö,E85 / Flexifuel
+Drivmedel Polttoaine
+
+gearType
+SE Manuell,Automat
+FI Manuaali,Automaatti
+Växellåda Vaihteisto
+
+leasingType (vain SE)
+SE Visa privatleasing,Dölj privatleasing,Endast privatleasing
+
+carTypes (icons)
+SE Småbil,Sedan,Halvkombi,Kombi,Coupé,Cab,SUV,Familjebuss,Yrkesfordon
+FI Porrasperä,Viistoperä,Farmari,Coupé,Avoauto,Monikäyttö,Maasturi,Tila-auto,Pakettiauto,Hyötyajoneuvo
+
+carColor
+Karossfärg
+värejä tähän
+
+
+FI only:
+driveType
+Etuveto,Takaveto,Neliveto
+Vetotapa
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+--------------------------- automallit ---------------------------
+Fi haettu ja luotu json tiedostoksi
+
+SE Volvo
+
+ Visa alla 
+ Visa färre
+
+
+-----------------
+FI Malli
+
+Merkki
+Alfa Romeo
+Aston Martin
+Audi
+Austin
+Bentley
+BMW
+Buick
+Cadillac
+Chevrolet
+Chrysler
+Citroen
+Cubra
+Dacia
+Daewoo
+Daihatsu
+DKW
+Dodge
+DS
+Ferrari
+Fiat
+Ford
+Gaz
+GMC
+Honda
+Hudson
+Hummer
+Hyundai
+Infiniti
+Isuzu
+Iveco
+Jaguar
+Jeep
+KIA
+Lada
+Lamborghini
+Lancia
+Land Rover
+Lexus
+Lincoln
+Lotus
+Maserati
+Mazda
+McLaren
+Mercedes-Benz
+Mini
+Mitsubishi
+Morris
+Moskvitsh
+Neckar
+Nissan
+Oldsmobile
+Opel
+Peugeot
+Pontiac
+Porsche
+Renault
+Rolls-Royce
+Rover
+Saab
+SEAT
+Skoda
+Smart
+SsangYong
+Subaru
+Suzuki
+Talbot
+Tesla
+Toyota
+Trabant
+TruckMasters
+Vauxhall
+Volkswagen
+Volvo	66,164,140,240,260,340,360,440,460,480,740,760,780 Bertone,850,940,960,C300,C30,C70,S40,S60,S70,S80,S90,V40,V50,V60,V70,V90,XC40,XC60,XC70,XC90,Amazon,Duett,P1800,PV,Muut
+Wartburg
+
+------------------------------
+FI mallit
+HUOM! Esim: KIA Pro_cee'd  Nissan Qashqai+2   Peugeot 206+
+		Suzuki Wagon R+		Volkswagen Transporter/Caravelle
+
+
+Alfa romeo:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="15">33</option><option value="16">75</option><option value="17">90</option><option value="14">145</option><option value="10">146</option><option value="1">147</option><option value="11">155</option><option value="2">156</option><option value="3">159</option><option value="12">164</option><option value="4">166</option><option value="20">4C</option><option value="19">8C</option><option value="5">Brera</option><option value="18">Giulia</option><option value="13">Giulietta</option><option value="6">GT</option><option value="7">GTV</option><option value="8">MiTo</option><option value="9">Spider</option><option value="21">Stelvio</option><option value="0">Muut</option></select>
+Aston Martin:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">DB9</option><option value="2">Rapide</option><option value="3">V8</option><option value="4">Valkyrie</option><option value="5">Vanquish</option><option value="0">Muut</option></select>
+Audi:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">80</option><option value="2">90</option><option value="3">100</option><option value="4">200</option><option value="5">A1</option><option value="6">A2</option><option value="7">A3</option><option value="8">A4</option><option value="9">A4 Allroad</option><option value="10">A5</option><option value="11">A6</option><option value="12">A6 Allroad</option><option value="13">A7</option><option value="14">A8</option><option value="15">Coupe</option><option value="16">Q2</option><option value="17">Q3</option><option value="18">Q5</option><option value="19">Q7</option><option value="41">Q8</option><option value="20">Quattro</option><option value="21">R8</option><option value="22">RS2</option><option value="23">RS3</option><option value="24">RS4</option><option value="25">RS5</option><option value="26">RS6</option><option value="27">RS7</option><option value="28">RSQ3</option><option value="29">S1</option><option value="30">S2</option><option value="31">S3</option><option value="32">S4</option><option value="33">S5</option><option value="34">S6</option><option value="35">S7</option><option value="36">S8</option><option value="37">SQ5</option><option value="38">SQ7</option><option value="39">TT</option><option value="40">V8</option><option value="0">Muut</option></select>
+Austin:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">A 30</option><option value="2">A 40</option><option value="3">Allegro</option><option value="4">Cambridge</option><option value="5">Healey</option><option value="6">Maxi</option><option value="7">Mini</option><option value="8">Taxi</option><option value="9">Vanden Plas</option><option value="0">Muut</option></select>
+Bentley:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Arnage</option><option value="3">Bentayga</option><option value="2">Continental</option><option value="0">Muut</option></select>
+BMW:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">1-sarja</option><option value="2">2-sarja</option><option value="3">3-sarja</option><option value="4">4-sarja</option><option value="5">5-sarja</option><option value="6">6-sarja</option><option value="7">7-sarja</option><option value="8">8-sarja</option><option value="18">M-mallit</option><option value="9">X1</option><option value="10">X2</option><option value="11">X3</option><option value="12">X4</option><option value="13">X5</option><option value="14">X6</option><option value="15">X7</option><option value="16">ActiveHybrid X6</option><option value="17">Z-sarja</option><option value="19">i-sarja</option><option value="20">Alpina</option><option value="0">Muut</option></select>
+Buick:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Cascada</option><option value="2">Enclave</option><option value="3">Encore</option><option value="4">Envision</option><option value="5">Excelle</option><option value="6">LaCrosse</option><option value="7">Lucerne</option><option value="8">Park Avenue</option><option value="9">Regal</option><option value="10">Riviera</option><option value="11">Roadmaster</option><option value="12">Skylark</option><option value="13">Super</option><option value="14">Verano</option><option value="0">Muut</option></select>
+Cadillac:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="18">Allante</option><option value="14">ATS</option><option value="1">BLS</option><option value="19">Brougham</option><option value="2">CTS</option><option value="15">CT6</option><option value="13">DTS</option><option value="6">Coupe de Ville</option><option value="7">De Ville</option><option value="8">Eldorado</option><option value="3">Escalade</option><option value="9">Fleetwood</option><option value="20">Northstar</option><option value="10">Series 62</option><option value="11">Seville</option><option value="4">Seville &amp; STS</option><option value="5">SRX</option><option value="12">XLR</option><option value="16">XT5</option><option value="17">XTS</option><option value="0">Muut</option></select>
+Chevrolet:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Alero</option><option value="2">Avalanche</option><option value="39">Aveo</option><option value="19">Astro</option><option value="3">Blazer</option><option value="20">Bel Air</option><option value="4">Camaro</option><option value="5">Captiva</option><option value="21">Caprice</option><option value="22">Cavalier</option><option value="23">Chevelle</option><option value="24">Corsica</option><option value="25">Cobalt</option><option value="6">Corvette</option><option value="40">Cruze</option><option value="26">El Camino</option><option value="27">Equinox</option><option value="38">Evanda</option><option value="7">Epica</option><option value="44">Express</option><option value="28">Fleetline</option><option value="29">HHR</option><option value="30">Impala</option><option value="8">Kalos</option><option value="9">Lacetti</option><option value="31">Lumina</option><option value="32">Malibu</option><option value="10">Matiz</option><option value="33">Monte Carlo</option><option value="11">Nubira</option><option value="43">Orlando</option><option value="34">Prizm</option><option value="18">Silverado</option><option value="12">S10</option><option value="42">Spark</option><option value="13">Suburban</option><option value="14">Tacuma</option><option value="15">Tahoe</option><option value="16">Trailblazer</option><option value="17">Trans Sport</option><option value="41">Trax</option><option value="35">Uplander</option><option value="36">Van</option><option value="37">Venture</option><option value="45">Volt</option><option value="0">Muut</option></select>
+Chrysler:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">200</option><option value="18">300</option><option value="19">300C</option><option value="20">300M</option><option value="8">Aspen</option><option value="9">Concorde</option><option value="3">Crossfire</option><option value="10">Imperial</option><option value="11">Le Baron</option><option value="7">Neon</option><option value="12">Newport</option><option value="13">New Yorker</option><option value="14">Pacifica</option><option value="15">Prowler</option><option value="4">PT Cruiser</option><option value="16">Saratoga</option><option value="5">Sebring</option><option value="6">Stratus</option><option value="17">Vision</option><option value="2">Voyager-sarja</option><option value="0">Muut</option></select>
+Citroen:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="18">2CV</option><option value="19">AX</option><option value="2">C1</option><option value="3">C2</option><option value="4">C3</option><option value="5">C4</option><option value="6">C5</option><option value="7">C6</option><option value="8">C8</option><option value="24">C3 Picasso</option><option value="25">C4 Aircross</option><option value="26">C4 Cactus</option><option value="27">C4 Picasso</option><option value="28">Grand C4 Picasso</option><option value="1">Berlingo</option><option value="20">B11</option><option value="21">BX</option><option value="9">C-Crosser</option><option value="32">C-Zero</option><option value="22">CX</option><option value="29">DS3</option><option value="30">DS4</option><option value="31">DS5</option><option value="10">Evasion</option><option value="11">Jumper</option><option value="12">Jumpy</option><option value="23">SM</option><option value="13">Saxo</option><option value="15">Xantia</option><option value="14">Xsara</option><option value="16">XM</option><option value="17">ZX</option><option value="0">Muut</option></select>
+Cubra:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Ateca</option></select>
+Dacia:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Dokker Van</option><option value="2">Duster</option><option value="3">Lodgy</option><option value="4">Logan MCV</option><option value="5">Logan Pick-up</option><option value="6">Logan Van</option><option value="7">Sandero</option><option value="8">Stepway</option><option value="0">Muut</option></select>
+Daewoo:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Evanda</option><option value="2">Kalos</option><option value="3">Lacetti</option><option value="4">Matiz</option><option value="5">Nubira</option><option value="6">Tacuma</option><option value="0">Muut</option></select>
+Daihatsu:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Applause</option><option value="2">Charade</option><option value="3">Feroza</option><option value="4">Materia</option><option value="5">Rocky</option><option value="6">Sirion</option><option value="7">Terios</option><option value="0">Muut</option></select>
+DKW:(tyhjä)
+Dodge:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Avenger</option><option value="14">B250</option><option value="15">B350</option><option value="2">Caliber</option><option value="3">Caravan</option><option value="4">Challenger</option><option value="6">Charger</option><option value="16">Coronet</option><option value="7">Durango</option><option value="5">Grand Caravan</option><option value="17">Intrepid</option><option value="8">Journey</option><option value="18">Luxury Line</option><option value="9">Magnum</option><option value="10">Nitro</option><option value="12">Ram</option><option value="19">Standard</option><option value="20">Super Bee</option><option value="13">Van</option><option value="11">Viper</option><option value="0">Muut</option></select>
+DS:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">3</option><option value="2">4</option><option value="3">5</option><option value="4">6</option><option value="5">7</option><option value="0">Muut</option></select>
+Ferrari:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="11">250</option><option value="12">308</option><option value="13">328</option><option value="14">330</option><option value="15">348</option><option value="1">355</option><option value="2">360</option><option value="16">400</option><option value="3">430</option><option value="4">456</option><option value="5">458</option><option value="17">488</option><option value="18">512</option><option value="6">550</option><option value="7">575</option><option value="8">599</option><option value="9">612</option><option value="10">California</option><option value="20">Dino</option><option value="21">Enzo</option><option value="19">F50</option><option value="22">Mondial</option><option value="24">Portofino</option><option value="23">Testarossa</option><option value="0">Muut</option></select>
+Fiat:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="19">124</option><option value="34">124 Spider</option><option value="37">125</option><option value="38">126</option><option value="39">127</option><option value="40">128</option><option value="20">130</option><option value="41">133</option><option value="42">238</option><option value="1">500</option><option value="32">500C</option><option value="43">500L</option><option value="33">500X</option><option value="21">600</option><option value="44">850</option><option value="22">1100</option><option value="29">Albea</option><option value="2">Barchetta</option><option value="17">Brava</option><option value="3">Bravo</option><option value="23">Coupé</option><option value="4">Croma</option><option value="5">Doblo</option><option value="14">Ducato</option><option value="6">Fiorino</option><option value="30">Freemont</option><option value="35">Fullback</option><option value="7">Grande Punto</option><option value="28">Idea</option><option value="31">Linea</option><option value="18">Marea</option><option value="24">Multipla</option><option value="25">Palio</option><option value="8">Panda</option><option value="9">Punto</option><option value="45">Punto Evo</option><option value="46">Qubo</option><option value="47">Ritmo</option><option value="13">Scudo</option><option value="26">Seicento</option><option value="10">Stilo</option><option value="11">Strada</option><option value="48">Talento</option><option value="15">Tempra</option><option value="36">Tipo</option><option value="12">Ulysse</option><option value="16">Uno</option><option value="27">X 1&frasl;9</option><option value="0">Muut</option></select>
+Ford:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="59">20M</option><option value="21">A-Ford</option><option value="22">Aerostar</option><option value="60">Anglia</option><option value="52">B-Max</option><option value="23">Bronco</option><option value="53">C-Max</option><option value="56">Capri</option><option value="20">Cougar</option><option value="61">Consul</option><option value="62">Cortina</option><option value="24">Country</option><option value="63">Coupe</option><option value="25">Courier</option><option value="26">Crown Victoria</option><option value="64">Custom</option><option value="65">De Luxe</option><option value="27">Econoline</option><option value="55">Ecosport</option><option value="54">Edge</option><option value="28">Edsel</option><option value="29">Escape</option><option value="13">Escort</option><option value="67">Escort Express</option><option value="66">Elite</option><option value="30">Excursion</option><option value="31">Expedition</option><option value="32">Express</option><option value="33">Explorer</option><option value="51">F-Series</option><option value="34">Fairlane</option><option value="68">Fairmont</option><option value="35">Falcon</option><option value="1">Fiesta</option><option value="69">Fiesta Van</option><option value="70">Flex</option><option value="2">Focus</option><option value="71">Freestar</option><option value="36">Freestyle</option><option value="3">Fusion</option><option value="37">Galaxie</option><option value="4">Galaxy</option><option value="38">Granada</option><option value="5">GT</option><option value="72">Junior</option><option value="6">Ka</option><option value="79">StreetKa</option><option value="11">Kuga</option><option value="73">Lincoln</option><option value="74">LTD</option><option value="16">Maverick</option><option value="39">Mercury</option><option value="7">Mondeo</option><option value="8">Mustang</option><option value="19">Orion</option><option value="75">P100</option><option value="76">Prefect</option><option value="40">Probe</option><option value="41">Puma</option><option value="77">Ranchero</option><option value="14">Ranger</option><option value="17">Scorpio</option><option value="18">Sierra</option><option value="9">S-Max</option><option value="78">Standard</option><option value="50">Super</option><option value="42">T-Ford</option><option value="43">Taunus</option><option value="44">Taurus</option><option value="45">Thunderbird</option><option value="46">Torino</option><option value="10">Tourneo</option><option value="80">Tourneo Connect</option><option value="81">Grand Tourneo Connect</option><option value="82">Tourneo Courier</option><option value="83">Tourneo Custom</option><option value="12">Transit</option><option value="84">Transit Connect</option><option value="85">Transit Courier</option><option value="86">Transit Custom</option><option value="47">Tudor</option><option value="48">Van</option><option value="15">Windstar</option><option value="49">Zephyr</option><option value="0">Muut</option></select>
+Gaz:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">51</option><option value="2">Jeep</option><option value="3">Popeda</option></select>
+GMC:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Pickup</option><option value="2">Safari</option><option value="3">Savana</option><option value="4">Sierra</option><option value="5">Suburban</option><option value="6">Vandura</option></select>
+Honda:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Accord</option><option value="20">Beat</option><option value="2">Civic</option><option value="14">Concerto</option><option value="3">CR-V</option><option value="10">CRX</option><option value="21">CR-Z</option><option value="15">Element</option><option value="4">FR-V</option><option value="12">HR-V</option><option value="9">Insight</option><option value="13">Integra</option><option value="5">Jazz</option><option value="6">Legend</option><option value="16">Logo</option><option value="17">NSX</option><option value="22">Odyssey</option><option value="11">Prelude</option><option value="7">S2000</option><option value="18">Shuttle</option><option value="19">Stream</option><option value="0">Muut</option></select>
+Hudson:(tyhjä)
+Hummer:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">H1</option><option value="2">H2</option><option value="3">H3</option><option value="0">Muut</option></select>
+Hyundai:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="16">Accent</option><option value="1">Atos</option><option value="2">Coupe</option><option value="3">Elantra</option><option value="19">Galloper</option><option value="4">Getz</option><option value="5">Grandeur</option><option value="6">H-1</option><option value="7">i10</option><option value="8">i20</option><option value="25">i20 Active</option><option value="9">i30</option><option value="29">i30N</option><option value="20">i40</option><option value="21">ix20</option><option value="17">ix35</option><option value="22">ix55</option><option value="26">IONIQ</option><option value="27">Kona</option><option value="28">Kona-E</option><option value="10">Matrix</option><option value="18">Pony</option><option value="11">Santa Fe</option><option value="12">Sonata</option><option value="23">Starex</option><option value="13">Terracan</option><option value="14">Trajet</option><option value="15">Tucson</option><option value="24">Velostar</option><option value="0">Muut</option></select>
+Infiniti:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">FX30d</option><option value="2">FX35</option><option value="3">FX37</option><option value="4">G35</option><option value="5">G37</option><option value="6">Q30</option><option value="7">Q50</option><option value="8">Q60</option><option value="9">Q70</option><option value="10">QX30</option><option value="11">QX50</option><option value="12">QX56</option><option value="13">QX60</option><option value="14">QX70</option><option value="15">QX80</option><option value="0">Muut</option></select>
+Isuzu:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Bellett</option><option value="2">Campo</option><option value="3">D-Max</option><option value="4">Pickup</option><option value="5">Trooper</option><option value="0">Muut</option></select>
+Iveco:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">35</option><option value="2">40</option><option value="3">49</option><option value="4">Daily</option><option value="0">Muut</option></select>
+Jaguar:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="6">Daimler</option><option value="7">E-Type</option><option value="13">E-Pace</option><option value="8">F-Pace</option><option value="9">F-Type</option><option value="14">I-Pace</option><option value="10">MK</option><option value="1">S-Type</option><option value="11">Sovereign</option><option value="3">X-Type</option><option value="12">XE</option><option value="2">XF</option><option value="4">XJ</option><option value="5">XK</option><option value="0">Muut</option></select>
+Jeep:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="2">Cherokee</option><option value="7">CJ</option><option value="4">Commander</option><option value="1">Compass</option><option value="3">Grand Cherokee</option><option value="5">Patriot</option><option value="8">Renegade</option><option value="9">Wagoneer</option><option value="10">Willys</option><option value="6">Wrangler</option><option value="0">Muut</option></select>
+KIA:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Carens</option><option value="2">Carnival</option><option value="3">Cee'd</option><option value="11">Cerato</option><option value="4">Magentis</option><option value="12">Niro</option><option value="13">Opirus</option><option value="14">Optima</option><option value="5">Picanto</option><option value="15">Pro_cee'd</option><option value="6">Rio</option><option value="7">Sorento</option><option value="9">Soul</option><option value="8">Sportage</option><option value="17">Stinger</option><option value="16">Stonic</option><option value="10">Venga</option><option value="0">Muut</option></select>
+Lada:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">110</option><option value="2">115</option><option value="3">1200</option><option value="4">1300</option><option value="5">1500</option><option value="6">1600</option><option value="7">1700</option><option value="8">2105</option><option value="9">2107</option><option value="10">Niva</option><option value="11">Samara</option><option value="0">Muut</option></select>
+Lamborghini:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="5">Aventador</option><option value="7">Countach</option><option value="3">Diablo</option><option value="1">Gallardo</option><option value="4">Huracán</option><option value="6">Miura</option><option value="2">Murciélago</option><option value="8">Urus</option><option value="0">Muut</option></select>
+Lancia:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Beta</option><option value="2">Dedra</option><option value="3">Delta</option><option value="4">Kappa</option><option value="5">Lybra</option><option value="6">Prisma</option><option value="7">Thesis</option><option value="8">Ypsilon</option><option value="0">Muut</option></select>
+Land Rover:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="5">109</option><option value="6">110</option><option value="7">88</option><option value="1">Defender</option><option value="2">Discovery</option><option value="8">Discovey Sport</option><option value="3">Freelander</option><option value="4">Range Rover</option><option value="11">Range Rover Evoque</option><option value="9">Range Rover Sport</option><option value="12">Range Rover Velar</option><option value="10">Serie</option><option value="0">Muut</option></select>
+Lexus:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="7">CT</option><option value="1">GS</option><option value="2">IS</option><option value="9">LC</option><option value="3">LS</option><option value="4">LX</option><option value="8">NX</option><option value="10">RC</option><option value="5">RX</option><option value="6">SC</option><option value="0">Muut</option></select>
+Lincoln:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">2D HT</option><option value="2">Continental</option><option value="3">Mark</option><option value="8">MKC</option><option value="9">MKT</option><option value="10">MKX</option><option value="11">MKZ</option><option value="4">Navigator</option><option value="5">Premiere</option><option value="6">Town Car</option><option value="7">Zephyr</option><option value="0">Muut</option></select>
+Lotus:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Elise</option><option value="2">Elise Sport</option><option value="3">Elise Sport 220</option><option value="4">Evora</option><option value="5">Evora 400</option><option value="6">Excel</option><option value="7">Exige Sport 350</option><option value="8">Exige S Roadster</option><option value="9">Seven</option><option value="0">Muut</option></select>
+Maserati:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">3200</option><option value="2">4200</option><option value="3">Biturbo</option><option value="4">Coupe</option><option value="5">GranCabrio</option><option value="6">GranSport</option><option value="7">GranTurismo</option><option value="8">Ghibli</option><option value="9">Levante</option><option value="10">Quattroporte</option><option value="11">Spyder</option><option value="0">Muut</option></select>
+Mazda:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="18">121</option><option value="19">1500</option><option value="20">1800</option><option value="1">2</option><option value="21">2200</option><option value="2">3</option><option value="12">323</option><option value="23">323F</option><option value="3">5</option><option value="4">6</option><option value="13">626</option><option value="24">818</option><option value="25">929</option><option value="26">B2500</option><option value="27">B2600</option><option value="28">BT-50</option><option value="29">CX-3</option><option value="30">CX-5</option><option value="6">CX-7</option><option value="31">CX-9</option><option value="7">Demio</option><option value="32">Europe</option><option value="33">Familia</option><option value="34">Forte</option><option value="35">Marella</option><option value="36">MPV</option><option value="16">MX-3</option><option value="8">MX-5</option><option value="17">MX-6</option><option value="37">Neo</option><option value="38">Pickup</option><option value="14">Premacy</option><option value="15">RX-7</option><option value="10">RX-8</option><option value="39">Xedos 6</option><option value="40">Xedos 9</option><option value="0">Muut</option></select>
+McLaren:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">570S</option><option value="2">MP4-12C</option><option value="0">Muut</option></select>
+Mercedes-Benz:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="35">115</option><option value="36">170</option><option value="37">180</option><option value="38">190</option><option value="39">200</option><option value="40">220</option><option value="41">230</option><option value="42">240</option><option value="43">250</option><option value="44">260</option><option value="45">270</option><option value="46">280</option><option value="47">290</option><option value="48">300</option><option value="49">320</option><option value="50">350</option><option value="51">380</option><option value="52">400</option><option value="53">420</option><option value="54">450</option><option value="55">500</option><option value="56">560</option><option value="57">600</option><option value="1">A-sarja</option><option value="2">B-sarja</option><option value="3">C-sarja</option><option value="23">CE</option><option value="24">Citan</option><option value="4">E-sarja</option><option value="5">CL</option><option value="25">CLA</option><option value="6">CLC</option><option value="7">CLK</option><option value="8">CLS</option><option value="9">G-sarja</option><option value="10">GL</option><option value="26">GLA</option><option value="27">GLC</option><option value="28">GLE</option><option value="11">GLK</option><option value="29">GLS</option><option value="12">ML</option><option value="13">R-sarja</option><option value="14">S-sarja</option><option value="15">SL</option><option value="30">SLC</option><option value="16">SLK</option><option value="17">SLR</option><option value="18">SLS AMG</option><option value="20">Sprinter</option><option value="31">Vaneo</option><option value="32">Vario</option><option value="33">Viano</option><option value="34">Vito</option><option value="19">V-sarja</option><option value="20">Sprinter</option><option value="58">X-sarja</option><option value="0">Muut</option></select>
+Mini:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Cooper</option><option value="2">Cooper S</option><option value="9">Cabrio</option><option value="4">Clubman</option><option value="6">Countryman</option><option value="5">John Cooper Works</option><option value="7">Mini</option><option value="3">One</option><option value="8">Paceman</option><option value="0">Muut</option></select>
+Mitsubishi:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="11">3000 GT</option><option value="13">ASX</option><option value="10">Carisma</option><option value="1">Colt</option><option value="12">Eclipse</option><option value="7">EVO-mallit</option><option value="2">Galant</option><option value="3">Grandis</option><option value="8">L200</option><option value="4">Lancer</option><option value="5">Outlander</option><option value="6">Pajero</option><option value="15">Shogun Sport</option><option value="14">Sigma</option><option value="9">Space-sarja</option><option value="0">Muut</option></select>
+Morris:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">1100</option><option value="2">Marina</option><option value="3">Mini</option><option value="4">Minor</option></select>
+Moskvitsh:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">1.5</option><option value="2">400</option><option value="3">401</option><option value="4">407</option><option value="5">Elite</option></select>
+Neckar:(tyhjä)
+Nissan:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="20">100NX</option><option value="18">200SX</option><option value="21">240SX</option><option value="19">300ZX</option><option value="1">350Z</option><option value="2">370Z</option><option value="3">Almera</option><option value="23">Almera Tino</option><option value="24">Bluebird</option><option value="25">Cedric</option><option value="26">Cherry</option><option value="27">Cube</option><option value="28">e-NV200</option><option value="4">GT-R</option><option value="29">Interstar</option><option value="30">Juke</option><option value="16">King Cab</option><option value="5">Kubistar</option><option value="32">Laurel</option><option value="33">Leaf</option><option value="6">Maxima</option><option value="7">Micra</option><option value="8">Murano</option><option value="31">Navara</option><option value="9">Note</option><option value="34">NP300</option><option value="35">NV200</option><option value="36">NV400</option><option value="10">Pathfinder</option><option value="11">Patrol</option><option value="37">Pickup</option><option value="22">Primastar</option><option value="12">Primera</option><option value="38">Pulsar</option><option value="13">Qashqai</option><option value="39">Qashqai+2</option><option value="40">Quest</option><option value="41">Silvia</option><option value="42">Skyline</option><option value="43">Stagea</option><option value="17">Sunny</option><option value="14">Terrano</option><option value="44">Terrano II</option><option value="45">Tiida</option><option value="46">Vanette</option><option value="15">X-Trail</option><option value="0">Muut</option></select>
+Oldsmobile:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">88</option><option value="2">Aurora</option><option value="3">Custom Cruiser</option><option value="4">Cutlass</option><option value="5">Delta</option><option value="6">Fastback</option><option value="7">Super</option></select>
+Opel:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="24">Adam</option><option value="1">Agila</option><option value="25">Ampera</option><option value="2">Antara</option><option value="21">Ascona</option><option value="3">Astra</option><option value="17">Calibra</option><option value="26">Campo</option><option value="27">Cascada</option><option value="4">Combo</option><option value="28">Commodore</option><option value="5">Corsa</option><option value="29">Corsavan</option><option value="36">Crossland X</option><option value="6">Frontera</option><option value="37">Grandland X</option><option value="7">GT</option><option value="8">Insignia</option><option value="19">Kadett</option><option value="30">Kapitan</option><option value="31">Karl</option><option value="23">Manta</option><option value="9">Meriva</option><option value="32">Mokka</option><option value="33">Monza</option><option value="10">Movano</option><option value="18">Omega</option><option value="20">Rekord</option><option value="34">Senator</option><option value="11">Signum</option><option value="22">Sintra</option><option value="12">Speedster</option><option value="13">Tigra</option><option value="14">Vectra</option><option value="15">Vivaro</option><option value="16">Zafira</option><option value="35">Zafira Tourer</option><option value="0">Muut</option></select>
+Peugeot:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="11">1007</option><option value="18">106</option><option value="1">107</option><option value="30">108</option><option value="31">2008</option><option value="32">203</option><option value="33">204</option><option value="19">205</option><option value="2">206</option><option value="34">206+</option><option value="3">207</option><option value="28">208</option><option value="6">3008</option><option value="36">304</option><option value="20">305</option><option value="16">306</option><option value="4">307</option><option value="5">308</option><option value="24">309</option><option value="22">4007</option><option value="38">403</option><option value="39">404</option><option value="21">405</option><option value="7">406</option><option value="8">407</option><option value="27">5008</option><option value="41">504</option><option value="42">505</option><option value="29">508</option><option value="25">605</option><option value="9">607</option><option value="26">806</option><option value="10">807</option><option value="17">Bipper</option><option value="12">Boxer</option><option value="13">Expert</option><option value="43">iOn</option><option value="14">Partner</option><option value="23">RCZ</option><option value="0">Muut</option></select>
+Pontiac:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Bonneville</option><option value="2">Catalina</option><option value="11">Chieftain</option><option value="3">Fiero</option><option value="4">Firebird</option><option value="5">Grand Am</option><option value="6">Grand-Prix</option><option value="7">GTO</option><option value="12">LeMans</option><option value="13">Montana</option><option value="14">Parisienne</option><option value="8">Solstice</option><option value="9">Trans Am</option><option value="10">Trans Sport</option><option value="0">Muut</option></select>
+Porsche:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="11">718</option><option value="1">911</option><option value="9">924</option><option value="6">928</option><option value="7">944</option><option value="8">968</option><option value="2">Boxster</option><option value="3">Cayman</option><option value="4">Cayenne</option><option value="10">Macan</option><option value="5">Panamera</option><option value="0">Muut</option></select>
+Renault:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="12">5</option><option value="11">19</option><option value="14">Captur</option><option value="1">Clio</option><option value="18">Dauphine</option><option value="2">Espace</option><option value="19">Fregate</option><option value="15">Kadjar</option><option value="3">Kangoo</option><option value="13">Koleos</option><option value="4">Laguna</option><option value="20">Mascott</option><option value="5">Master</option><option value="6">Megane</option><option value="7">Modus</option><option value="17">Safrane</option><option value="8">Scenic</option><option value="16">Talisman</option><option value="9">Trafic</option><option value="10">Twingo</option><option value="22">Twizy</option><option value="21">Zoe</option><option value="0">Muut</option></select>
+Rolls-Royce:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Cullinan</option><option value="2">Dawn</option><option value="3">Ghost</option><option value="4">Wraith</option><option value="5">Phantom VII</option><option value="6">Phantom VIII</option><option value="7">Wraith</option><option value="0">Muut</option></select>
+Rover:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">200</option><option value="2">2000</option><option value="3">25</option><option value="4">3500</option><option value="5">400</option><option value="6">600</option><option value="7">75</option><option value="8">820</option><option value="0">Muut</option></select>
+Saab:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">9-3</option><option value="2">9-5</option><option value="5">9-7X</option><option value="11">90</option><option value="10">95</option><option value="6">96</option><option value="7">99</option><option value="4">900</option><option value="3">9000</option><option value="8">Sonett</option><option value="9">V4</option><option value="0">Muut</option></select>
+SEAT:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Alhambra</option><option value="2">Altea</option><option value="10">Altea Freetrack</option><option value="3">Altea XL</option><option value="16">Arona</option><option value="11">Arosa</option><option value="12">Ateca</option><option value="4">Cordoba</option><option value="5">Ibiza</option><option value="6">Inca</option><option value="7">Leon</option><option value="13">Leon X-Perience</option><option value="14">Mii</option><option value="8">Toledo</option><option value="9">Exeo</option><option value="15">Exeo ST</option><option value="0">Muut</option></select>
+Skoda:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="9">Citigo</option><option value="1">Fabia</option><option value="10">Favorit</option><option value="8">Felicia</option><option value="13">Karoq</option><option value="12">Kodiaq</option><option value="2">Octavia</option><option value="3">Pick-up</option><option value="4">Praktik</option><option value="11">Rapid</option><option value="5">Roomster</option><option value="6">Superb</option><option value="7">Yeti</option><option value="0">Muut</option></select>
+Smart:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Crossblade</option><option value="2">Forfour</option><option value="3">Fortwo</option><option value="4">Roadster</option><option value="0">Muut</option></select>
+SsangYong:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Actyon</option><option value="6">Korando</option><option value="2">Kyron</option><option value="3">Musso</option><option value="4">Rexton</option><option value="5">Rodius</option><option value="7">Tivoli</option><option value="0">Muut</option></select>
+Subaru:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="12">Ascent</option><option value="6">BRZ</option><option value="1">Forester</option><option value="2">Impreza</option><option value="3">Justy</option><option value="4">Legacy</option><option value="11">Leone</option><option value="7">Levorg</option><option value="8">Outback</option><option value="5">Tribeca</option><option value="9">SVX</option><option value="10">XV</option><option value="0">Muut</option></select>
+Suzuki:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Alto</option><option value="12">Carry</option><option value="11">Ignis</option><option value="2">Jimny</option><option value="13">S-cross</option><option value="14">SA310</option><option value="15">Samurai</option><option value="16">SJ410</option><option value="17">SJ413</option><option value="4">Splash</option><option value="3">Swift</option><option value="5">SX4</option><option value="6">Vitara</option><option value="7">Grand Vitara</option><option value="8">Baleno</option><option value="9">Liana</option><option value="10">Wagon R+</option><option value="0">Muut</option></select>
+Talbot:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">1510</option><option value="2">Horizon</option><option value="3">Solara</option></select>
+Tesla:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Model S</option><option value="2">Model X</option><option value="3">Model 3</option><option value="0">Muut</option></select>
+Toyota:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="7">4-Runner</option><option value="2">Auris</option><option value="3">Avensis</option><option value="4">Aygo</option><option value="19">Camry</option><option value="20">Carina</option><option value="5">Celica</option><option value="6">Corolla</option><option value="29">Corona</option><option value="26">GT86</option><option value="28">C-HR</option><option value="8">Hiace</option><option value="9">Hilux</option><option value="10">IQ</option><option value="1">Land Cruiser</option><option value="11">LC</option><option value="12">MR2</option><option value="13">Paseo</option><option value="14">Previa</option><option value="15">Prius</option><option value="24">Prius PHEV</option><option value="25">Prius+</option><option value="27">Proace</option><option value="16">RAV4</option><option value="31">Scion</option><option value="30">Sequoia</option><option value="22">Starlet</option><option value="21">Supra</option><option value="17">Urban Cruiser</option><option value="23">Verso</option><option value="18">Yaris</option><option value="0">Muut</option></select>
+Trabant:(tyhjä)
+TruckMasters:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Okenos</option><option value="2">OX</option></select>
+Vauxhall:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">Cavalier</option><option value="2">Cresta</option><option value="3">Velox</option><option value="4">Victor</option><option value="5">Viva</option></select>
+Volkswagen:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="22">Amarok</option><option value="27">Arteon</option><option value="1">Beetle</option><option value="18">Bora</option><option value="2">Caddy</option><option value="20">Corrado</option><option value="4">Eos</option><option value="5">Fox</option><option value="6">Golf</option><option value="23">Golf Plus</option><option value="24">Golf Sportsvan</option><option value="7">Jetta</option><option value="17">Kupla</option><option value="8">Lupo</option><option value="9">Passat</option><option value="25">Passat CC</option><option value="10">Phaeton</option><option value="11">Polo</option><option value="12">Scirocco</option><option value="13">Sharan</option><option value="28">T-Roc</option><option value="29">T-Cross</option><option value="26">Taro</option><option value="14">Tiguan</option><option value="15">Touareg</option><option value="16">Touran</option><option value="3">Transporter/Caravelle</option><option value="21">Up</option><option value="19">Vento</option><option value="0">Muut</option></select>
+Volvo:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="35">66</option><option value="36">164</option><option value="2">140</option><option value="3">240</option><option value="4">260</option><option value="5">340</option><option value="6">360</option><option value="7">440</option><option value="8">460</option><option value="9">480</option><option value="10">740</option><option value="11">760</option><option value="12">780 Bertone</option><option value="13">850</option><option value="14">940</option><option value="15">960</option><option value="37">C300</option><option value="16">C30</option><option value="17">C70</option><option value="18">S40</option><option value="19">S60</option><option value="20">S70</option><option value="21">S80</option><option value="22">S90</option><option value="23">V40</option><option value="24">V50</option><option value="25">V60</option><option value="26">V70</option><option value="27">V90</option><option value="34">XC40</option><option value="28">XC60</option><option value="29">XC70</option><option value="30">XC90</option><option value="1">Amazon</option><option value="31">Duett</option><option value="32">P1800</option><option value="33">PV</option><option value="0">Muut</option></select>
+Wartburg:<select id="car_level1_select" class="span12 selectbox" name="cbl1" tabindex="20" onchange="return xt_click(this,'C','104','Malli','A');"><option value="">Malli</option><option value="1">353 W</option><option value="2">Tourist</option><option value="0">Muut</option></select>

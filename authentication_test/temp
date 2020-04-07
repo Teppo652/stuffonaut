@@ -1,0 +1,73 @@
+
+
+NO
+
+"bike_type": "
+"bike_typeData": "Mountainbikes,Racersykler,El-sykler,Trekkingsykler,Standardsykler,Barnesykler
+
+"bike_category": "Kategorier
+"bike_categoryData": "MTB Hardtails,MTB Full Suspension,MTB 26",MTB 27,5",MTB 29",MTB Junior
+
+"bike_brand": "
+"bike_frameSize" : "
+"bike_wheelSize" : "Hjulstørrelse i Tommer
+"bike_travel" : "
+"bike_gears" : "
+"bike_material" : "
+"bike_materialData" : "
+"bike_gender" : "
+"bike_genderData" : "
+"bike_color" : "
+
+JATKA: https://www.bikester.no/sykler/mountainbike-hardtail.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------
+
+"bike_type": "
+"bike_typeData": "
+
+"bike_category": "
+"bike_categoryData": "
+
+"bike_brand": "
+"bike_frameSize" : "
+"bike_wheelSize" : "
+"bike_travel" : "
+"bike_gears" : "
+"bike_material" : "
+"bike_materialData" : "
+"bike_gender" : "
+"bike_genderData" : "
+"bike_color" : "
+
+-----------------
+
+EN
+"bike_type": "Type",
+"bike_typeData": "Mountain,Road,Electric,Touring,City,Childrens",
+
+"bike_category": "Category",
+"bike_categoryData": "Hardtails,Full Suspension Mountain Bikes,MTB 26 Inch,MTB 27.5 Inch,MTB 29 Inch,Youth MTBs";
+
+"bike_brand": "Brand",
+"bike_frameSize" : "Frame size in cm",
+"bike_wheelSize" : "Wheel size in inches",
+"bike_travel" : "Travel in mm",
+"bike_gears" : "Gear No.",
+"bike_material" : "Material type",
+"bike_materialData" : "Aluminium,Carbon,Steel",
+"bike_gender" : "Gender",
+"bike_genderData" : "Women,Men,Children",
+"bike_color" : "Colour",

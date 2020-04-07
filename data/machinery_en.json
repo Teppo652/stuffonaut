@@ -1,0 +1,9 @@
+{
+	"main" : "Construction,Agriculture,Transportation,Material Handling,Groundcare,Forestry",
+	"0" : "Excavators,Loaders,Aerial platforms,Cranes,Waste / Recycling & Quarry Equipment,Asphalt machines,Attachments,Backhoe loaders,Compaction equipment,Compressor equipment,Concrete equipment,Construction - Others,Dozers,Drilling equipment,Dumpers,Generators,Marine equipment,Oil and Gas Equipment,Piling equipment,Road construction,Spare parts,Telescopic handlers,Underground mining equipment",
+	"1" : "Tractors,Hay and forage machines,Tillage machines,Agricultural harvesters,Fertilizer application,Accessories,ATVs and snowmobiles,Crop processing and storage units/machines,Irrigation,Livestock machinery,Loading and digging,Olive harvesting mach,Other agricultural machines,Potato equipment,Road and snow machines,Self-propelled foragers,Sowing and planting machines,Spare parts,Sprayers,Trailers,Wine growing equipment",
+	"2" : "Trucks,Vans & light commercials,Tractor Units,Semi-trailers,Trailers,Bus / Coach,Cars,Containers,Cross-country vehicles,Electric vehicles,Load Handling,Loose superstructure,Other components,Public service vehicles,Spare parts",
+	"3" : "Forklift trucks,Stackers,Pallet trucks,Reach trucks,Special applications,Attachments and components,Order pickers,Others,Port and container equipment,Spare parts,Warehouse cleaning machines,Warehouse equipment",
+	"4" : "Mowers,Sweepers,Compact tractors,Golf and sports turf equipment,Utility machines,Beach cleaning equipment,Compact tractor attachments,Hedge trimmers,Other groundcare machines,Pressure wash equipment,Spare parts,Two-wheeled tractors and cultivators,Utility tool carriers",
+	"5" : "Wood processing&comma; chipping and recycling,Harvesters,Forwarders,Skidders,Feller bunchers,Accessories,Delimbers,Excavators,Forestry tractors,Harwarders,Knuckleboom loaders,Other,Sawmills,Spare parts"
+}

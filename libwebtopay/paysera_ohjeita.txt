@@ -1,0 +1,54 @@
+
+tehty tähän asti:
+https://developers.paysera.com/en/payments/current#integration-via-library
+
+jatka hankkimalla tunnukset (personal accountilla voi laskuttaa SMS laskuja)
+
+----
+Paysera instructions for SMS:
+
+Your Question: Hi, we are starting a website and want to charge users via SMS payment. We don't have the company formed yet, can we charge via SMS as private customer 
+
+until the company is formed?
+Please wait and one of our operators will be with you shortly.
+You are now chatting with Gintarė E. - Support
+
+12:22Gintarė E.:
+Hello
+
+12:22Teppo Testaaja:
+Hi
+
+12:23Gintarė E.:
+you can collect sms paymnet and in personal account
+
+!
+12:23Gintarė E.:
+you must create project and make keyword
+
+12:23Gintarė E.:
+- Log in to your account. 
+- click on the wheel cog icon at the right top corner of the page, select "Information management > Enable/Disable", 
+- find "Collection of payments online via e-banking and other systems" and click on "Order". 
+- In the left menu please select "Payment gateway > Manage projects" 
+- click on "Add a new project". 
+- In the opened window please enter all required information to create a project. Later on, you will be able to change this information according to your needs. Submit the project for review only after the website is fully prepared to be used by clients, the payment platform is integrated and test payments are performed. Your submitted project will be reviewed within one day.
+ 
+- After creating a project, you will be provided with data necessary for technical integration of the payment platform: 
+- in the section "Manage projects" you will find the project ID (Project number); 
+- in the section "Manage projects" → click on "Project settings > General project information" and you will find a code necessary for verification of your website ownership; 
+
+- in the section "Manage projects" → click on "Project settings > General project settings" and you will find your project password. 
+
+In order to collect funds in your e-shop with the help of our system, you have to integrate our payment platform on your website and create a project on your Paysera account. 
+
+Information about technical specification for integration can be found at the https://developers.paysera.com 
+More detailed information about commission fees for payment collection, both via banks and by SMS messages, can be found at https://www.paysera.com/v2/en-GB/fees (Prices of collection of payments).
+-----------
+12:24Teppo Testaaja:
+Ok, very good. Thank you for instructions, can this all be done in one day and it will work immediately?
+
+12:26Gintarė E.:
+it can bee if you make all steps correct
+
+

@@ -1,0 +1,46 @@
+/* styles */
+
+#sameSettings {
+	background-color: yellow;
+}
+.icon {
+   width:  16px;
+   height: 16px; 
+   padding-top: 2px;
+   margin-right: 2px;
+}
+.iconL {
+   width:  24px;
+   height: 24px;
+}
+.iconM {
+   width:  20px;
+   height: 20px;
+}
+.iconS {
+   width:  12px;
+   height: 12px; 
+}
+.iconXL {
+   width:  70px;
+   height: 70px; 
+}
+.iconButton {
+	padding: 9px 14px 5px 14px;
+	text-align: center;
+	clear: left;
+    float: left;
+}
+.iconButtonS {
+	padding: 5px 8px;
+	text-align: center;
+	clear: left;
+    float: left;
+}
+.iconButton b {
+	font-weight: 100;
+    overflow-wrap: break-word;
+}
+.deleteIcon {
+ 	content: url(delete_icon.svg);
+ }
