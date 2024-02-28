@@ -1,2 +1,2 @@
 # stuffonaut
-A Blocket.se inspired site with global locations and multiple languages. Built with vanilla JavaScript front-end and PHP MySQL backend.
+A Blocket inspired buy/sell with global locales and multi language. Built with: Vanilla JavaScript + jQuery frontend + PHP backend + MySQL + CSS + AJAX + multi language + GeoNames location API
